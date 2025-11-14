@@ -314,7 +314,7 @@
       "innerShadowY": 0,
       "innerShadowBlur": 0,
       "innerShadowSize": 0,
-      "name": "w_vaultcontrol_tech",
+      "name": "w_vaultcontrol_bedroom",
       "comment": null,
       "class": "c_vaultcontrol",
       "filterkey": null,
@@ -327,7 +327,7 @@
       "left": "130",
       "top": "300",
       "width": "230",
-      "height": "150",
+      "height": "200",
       "position": "absolute",
       "overflow": "visible"
     },
@@ -464,9 +464,9 @@
       "html_append_plural": " min",
       "g_css_font_text": true,
       "g_css_shadow_padding": true,
-      "name": "w_label_windowsupervision_tech",
+      "name": "w_label_vaultsupervision_bedroom",
       "comment": null,
-      "class": "c_label_windowsupervision",
+      "class": "c_label_vaultsupervision",
       "filterkey": null,
       "multi-views": null,
       "locked": null,
@@ -1414,5 +1414,40 @@
     },
     "widgetSet": "vis-2-widgets-inventwo",
     "_id": "i000010"
+  },
+  {
+    "tpl": "tplValueString",
+    "data": {
+      "bindings": [],
+      "oid": "0_userdata.0.SUPERVISION.bedroom.security.gunsafe1.last-change",
+      "g_css_font_text": true,
+      "name": "w_label_lastaction_vault_bedroom",
+      "comment": null,
+      "class": "c_label_lastaction",
+      "filterkey": null,
+      "multi-views": null,
+      "locked": null,
+      "g_fixed": true
+    },
+    "style": {
+      "bindings": [],
+      "left": "139",
+      "top": "465",
+      "width": "200",
+      "height": "20",
+      "color": null,
+      "text-align": "center",
+      "text-shadow": null,
+      "font-family": null,
+      "font-style": null,
+      "font-variant": null,
+      "font-weight": null,
+      "font-size": null,
+      "line-height": null,
+      "letter-spacing": null,
+      "word-spacing": null
+    },
+    "widgetSet": "basic",
+    "_id": "i000011"
   }
 ]
