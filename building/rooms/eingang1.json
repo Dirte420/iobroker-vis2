@@ -948,7 +948,8 @@
       "multi-views": null,
       "locked": null,
       "g_fixed": true,
-      "digits": "0"
+      "digits": "0",
+      "html_append_singular": " lx"
     },
     "style": {
       "bindings": [],
