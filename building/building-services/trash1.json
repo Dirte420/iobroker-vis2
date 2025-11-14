@@ -1,0 +1,32 @@
+[
+  {
+    "tpl": "tplTrashscheduleHelper",
+    "data": {
+      "bindings": [],
+      "oid": "trashschedule.0.type.json",
+      "g_common": true,
+      "size": 100,
+      "limit": 5,
+      "glowLimit": "1",
+      "showName": "true",
+      "showDate": "true",
+      "dateLocale": "de-DE",
+      "dateWeekday": "long",
+      "glow": true,
+      "name": "w_trashschedule",
+      "comment": null,
+      "class": "c_trashschedule",
+      "filterkey": null,
+      "multi-views": null,
+      "locked": null,
+      "g_fixed": true
+    },
+    "style": {
+      "bindings": [],
+      "left": "130",
+      "top": "60"
+    },
+    "widgetSet": "trashschedule",
+    "_id": "i000001"
+  }
+]
