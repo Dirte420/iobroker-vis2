@@ -320,7 +320,7 @@
       "innerShadowBlur": 0,
       "innerShadowSize": 0,
       "background": "rgba(255,152,0,1)",
-      "view": "heizung1",
+      "view": "heating1",
       "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik0xOSAzSDVjLTEuMSAwLTIgLjktMiAydjE0YzAgMS4xLjkgMiAyIDJoMTRjMS4xIDAgMi0uOSAyLTJWNWMwLTEuMS0uOS0yLTItMnptLTYuMjUgNC4wOGMuODIuMTIgMS41Ny40NCAyLjIuOTFsLTIuMiAyLjJWNy4wOHptLTEuNSAwdjMuMTFsLTIuMi0yLjJjLjYzLS40NyAxLjM4LS43OSAyLjItLjkxek03Ljk5IDkuMDVsMi4yIDIuMkg3LjA4Yy4xMi0uODIuNDQtMS41Ny45MS0yLjJ6bS0uOTEgMy43aDMuMTFsLTIuMiAyLjJjLS40Ny0uNjMtLjc5LTEuMzgtLjkxLTIuMnptNC4xNyA0LjE3Yy0uODItLjEyLTEuNTctLjQ0LTIuMi0uOTFsMi4yLTIuMnYzLjExek0xMiAxM2MtLjU1IDAtMS0uNDUtMS0xcy40NS0xIDEtMXMxIC40NSAxIDFzLS40NSAxLTEgMXptLjc1IDMuOTJ2LTMuMTFsMi4yIDIuMmMtLjYzLjQ3LTEuMzguNzktMi4yLjkxem0zLjI2LTEuOTdsLTIuMi0yLjJoMy4xMWMtLjEyLjgyLS40NCAxLjU3LS45MSAyLjJ6bS0yLjItMy43bDIuMi0yLjJjLjQ3LjY0Ljc5IDEuMzkuOTEgMi4yaC0zLjExeiIvPjwvc3ZnPg==",
       "text": "Heizung",
       "invertOrder": true,
