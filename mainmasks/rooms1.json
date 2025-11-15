@@ -2477,7 +2477,7 @@
       "text": "Dachboden",
       "invertOrder": true,
       "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik0xMyAxOGgtMnYtMmgydjJ6bTItNEg5djZoNnYtNnptNC00LjdWNGgtM3YyLjZMMTIgM0wyIDEyaDNsNy02LjMxTDE5IDEyaDNsLTMtMi43eiIvPjwvc3ZnPg==",
-      "view": "dachboden1",
+      "view": "attic1",
       "name": "w_button_room_attic1",
       "comment": null,
       "class": "c_buttonroom",
