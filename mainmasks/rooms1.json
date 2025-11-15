@@ -1644,7 +1644,7 @@
       "text": "Lager",
       "invertOrder": true,
       "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik0yMiAyMVY3TDEyIDNMMiA3djE0aDV2LTloMTB2OWg1em0tMTEtMkg5djJoMnYtMnptMi0zaC0ydjJoMnYtMnptMiAzaC0ydjJoMnYtMnoiLz48L3N2Zz4=",
-      "view": "lager1",
+      "view": "warehouse1",
       "name": "w_button_room_warehouse1",
       "comment": null,
       "class": "c_buttonroom",
