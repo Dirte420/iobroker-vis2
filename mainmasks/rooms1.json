@@ -2239,7 +2239,7 @@
       "text": "Terrasse",
       "invertOrder": true,
       "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik0yMiA5TDEyIDJMMiA5aDl2MTNoMlY5eiIvPjxwYXRoIGZpbGw9ImN1cnJlbnRDb2xvciIgZD0iTTQuMTQgMTJsLTEuOTYuMzdsLjgyIDQuMzdWMjJoMmwuMDItNEg3djRoMnYtNkg0Ljl6bTE0Ljk2IDRIMTV2Nmgydi00aDEuOThsLjAyIDRoMnYtNS4yNmwuODItNC4zN2wtMS45Ni0uMzd6Ii8+PC9zdmc+",
-      "view": "terrasse1",
+      "view": "terrace1",
       "name": "w_button_room_terrace1",
       "comment": null,
       "class": "c_buttonroom",
