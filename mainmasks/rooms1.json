@@ -573,7 +573,7 @@
       "text": "Stiegenhaus",
       "invertOrder": true,
       "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik0xOSAzSDVjLTEuMSAwLTIgLjktMiAydjE0YzAgMS4xLjkgMiAyIDJoMTRjMS4xIDAgMi0uOSAyLTJWNWMwLTEuMS0uOS0yLTItMnptLTEgNWgtMi40MnYzLjMzSDEzdjMuMzNoLTIuNThWMThINnYtMmgyLjQydi0zLjMzSDExVjkuMzNoMi41OFY2SDE4djJ6Ii8+PC9zdmc+",
-      "view": "stiege1",
+      "view": "stairwell1",
       "name": "w_button_room_stairway1",
       "comment": null,
       "class": "c_buttonroom",
