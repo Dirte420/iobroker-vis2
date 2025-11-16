@@ -684,7 +684,7 @@
       "innerShadowColorTrue2": null,
       "contentSize2": 0,
       "g_countStates-2": true,
-      "view": "schlafzimmer1",
+      "view": "bedroom1",
       "invertOrder": true
     },
     "style": {
@@ -3320,7 +3320,7 @@
       "multi-views": null,
       "locked": null,
       "g_fixed": true,
-      "view": "schlafzimmer1"
+      "view": "bedroom1"
     },
     "style": {
       "bindings": [],

@@ -335,7 +335,7 @@
       "text": "Schlafzimmer",
       "invertOrder": true,
       "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik0xNi41IDEyaC05Yy0uNTUgMC0xIC40NS0xIDF2MWgxMXYtMWMwLS41NS0uNDUtMS0xLTF6TTcuMjUgOC41aDR2MmgtNHptNS41IDBoNHYyaC00eiIvPjxwYXRoIGZpbGw9ImN1cnJlbnRDb2xvciIgZD0iTTIwIDJINGMtMS4xIDAtMiAuOS0yIDJ2MTZjMCAxLjEuOSAyIDIgMmgxNmMxLjEgMCAyLS45IDItMlY0YzAtMS4xLS45LTItMi0yem0tMSAxNWgtMS41di0xLjVoLTExVjE3SDV2LTMuODNjMC0uNjYuMjUtMS4yNi42NS0xLjcyVjljMC0xLjEuOS0yIDItMkgxMWMuMzcgMCAuNzIuMTIgMSAuMzJjLjI4LS4yLjYzLS4zMiAxLS4zMmgzLjM1YzEuMSAwIDIgLjkgMiAydjIuNDVjLjQuNDYuNjUgMS4wNi42NSAxLjcyVjE3eiIvPjwvc3ZnPg==",
-      "view": "schlafzimmer1",
+      "view": "bedroom1",
       "name": "w_button_room_bedroom1",
       "comment": null,
       "class": "c_buttonroom",
