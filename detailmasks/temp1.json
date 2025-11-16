@@ -424,7 +424,7 @@
       "innerShadowColorTrue2": null,
       "contentSize2": 0,
       "g_countStates-2": true,
-      "view": "kind2",
+      "view": "child2",
       "invertOrder": true
     },
     "style": {
@@ -3248,7 +3248,7 @@
       "multi-views": null,
       "locked": null,
       "g_fixed": true,
-      "view": "kind2"
+      "view": "child2"
     },
     "style": {
       "bindings": [],

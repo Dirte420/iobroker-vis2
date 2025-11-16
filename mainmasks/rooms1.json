@@ -216,7 +216,7 @@
       "text": "Kind 2",
       "invertOrder": true,
       "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik0yMCAySDRjLTEuMSAwLTIgLjktMiAydjE2YzAgMS4xLjkgMiAyIDJoMTZjMS4xIDAgMi0uOSAyLTJWNGMwLTEuMS0uOS0yLTItMnptLTggMTZjLTIuNjQgMC01LjEzLTEuMDMtNy0yLjlsMS4wNi0xLjA2Yy4zNC4zNC43MS42NSAxLjEuOTJMOCAxMy41VjkuNTFsLTEuNTUuOTlsLS45NS0xTDcgNy43Nkw2IDdoMy42NWwxLjczIDNIMTd2MWgtMXYyLjVsLjg0IDEuNDZjLjM5LS4yOC43Ni0uNTggMS4xLS45MkwxOSAxNS4xYTkuODQyIDkuODQyIDAgMCAxLTcgMi45eiIvPjxwYXRoIGZpbGw9ImN1cnJlbnRDb2xvciIgZD0iTTE0LjY5IDE0LjI0YTcuNzIgNy43MiAwIDAgMS01LjQgMGwtLjgxIDEuNDFsLS4wMy4wNmMxLjEuNTIgMi4yOC43OSAzLjUzLjc5czIuNDUtLjI4IDMuNTUtLjc5bC0uMDMtLjA2bC0uODEtMS40MXoiLz48L3N2Zz4=",
-      "view": "kind2",
+      "view": "child2",
       "name": "w_button_room_child2",
       "comment": null,
       "class": "c_buttonroom",
