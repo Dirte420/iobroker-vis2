@@ -1168,7 +1168,7 @@
       "text": "Esszimmer",
       "invertOrder": true,
       "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik0yMCAySDRjLTEuMSAwLTIgLjktMiAydjE2YzAgMS4xLjkgMiAyIDJoMTZjMS4xIDAgMi0uOSAyLTJWNGMwLTEuMS0uOS0yLTItMnptLTkgOC4zYzAgLjkzLS42NCAxLjcxLTEuNSAxLjkzVjE5SDh2LTYuNzdjLS44Ni0uMjItMS41LTEtMS41LTEuOTNWNi41YzAtLjI4LjIyLS41LjUtLjVzLjUuMjIuNS41VjloLjc1VjYuNWMwLS4yOC4yMi0uNS41LS41cy41LjIyLjUuNVY5SDEwVjYuNWMwLS4yOC4yMy0uNS41LS41Yy4yOCAwIC41LjIyLjUuNXYzLjh6bTQuNTggMi4yOWwtLjA4LjAzVjE5SDE0di02LjM4bC0uMDgtLjA0Yy0uOTctLjQ3LTEuNjctMS43LTEuNjctMy4xOGMwLTEuODggMS4xMy0zLjQgMi41LTMuNGMxLjM4IDAgMi41IDEuNTMgMi41IDMuNDFjMCAxLjQ4LS43IDIuNzEtMS42NyAzLjE4eiIvPjwvc3ZnPg==",
-      "view": "esszimmer1",
+      "view": "dining1",
       "name": "w_button_room_dining1",
       "comment": null,
       "class": "c_buttonroom",
