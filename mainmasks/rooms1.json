@@ -1406,7 +1406,7 @@
       "text": "Schrank",
       "invertOrder": true,
       "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik0yMS42IDE4LjJMMTMgMTEuNzV2LS45MWEzLjQ5NiAzLjQ5NiAwIDAgMC0uMTgtNi43NUEzLjUxIDMuNTEgMCAwIDAgOC41IDcuNWgyYzAtLjgzLjY3LTEuNSAxLjUtMS41czEuNS42NyAxLjUgMS41YzAgLjg0LS42OSAxLjUyLTEuNTMgMS41Yy0uNTQtLjAxLS45Ny40NS0uOTcuOTl2MS43NkwyLjQgMTguMmMtLjc3LjU4LS4zNiAxLjguNiAxLjhoMThjLjk2IDAgMS4zNy0xLjIyLjYtMS44ek02IDE4bDYtNC41bDYgNC41SDZ6Ii8+PC9zdmc+",
-      "view": "schrank1",
+      "view": "closet1",
       "name": "w_button_room_cabinet1",
       "comment": null,
       "class": "c_buttonroom",
