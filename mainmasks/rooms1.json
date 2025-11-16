@@ -2358,7 +2358,7 @@
       "text": "Eingang",
       "invertOrder": true,
       "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik0xNCA2djE1SDN2LTJoMlYzaDl2MWg1djE1aDJ2MmgtNFY2aC0zem0tNCA1djJoMnYtMmgtMnoiLz48L3N2Zz4=",
-      "view": "eingang1",
+      "view": "entrance1",
       "name": "w_button_room_entrance1",
       "comment": null,
       "class": "c_buttonroom",
