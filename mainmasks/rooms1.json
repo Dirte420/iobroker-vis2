@@ -811,7 +811,7 @@
       "text": "WC",
       "invertOrder": true,
       "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik01LjUgMjJ2LTcuNUg0VjljMC0xLjEuOS0yIDItMmgzYzEuMSAwIDIgLjkgMiAydjUuNUg5LjVWMjJoLTR6TTE4IDIydi02aDNsLTIuNTQtNy42M0EyLjAxIDIuMDEgMCAwIDAgMTYuNTYgN2gtLjEyYTIgMiAwIDAgMC0xLjkgMS4zN0wxMiAxNmgzdjZoM3pNNy41IDZjMS4xMSAwIDItLjg5IDItMnMtLjg5LTItMi0ycy0yIC44OS0yIDJzLjg5IDIgMiAyem05IDBjMS4xMSAwIDItLjg5IDItMnMtLjg5LTItMi0ycy0yIC44OS0yIDJzLjg5IDIgMiAyeiIvPjwvc3ZnPg==",
-      "view": "toilette1",
+      "view": "toilet1",
       "name": "w_button_room_toilet1",
       "comment": null,
       "class": "c_buttonroom",
