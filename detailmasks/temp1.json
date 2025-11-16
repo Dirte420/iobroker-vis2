@@ -1984,7 +1984,7 @@
       "innerShadowColorTrue2": null,
       "contentSize2": 0,
       "g_countStates-2": true,
-      "view": "kueche1",
+      "view": "kitchen1",
       "invertOrder": true
     },
     "style": {
@@ -3752,7 +3752,7 @@
       "multi-views": null,
       "locked": null,
       "g_fixed": true,
-      "view": "kueche1"
+      "view": "kitchen1"
     },
     "style": {
       "bindings": [],

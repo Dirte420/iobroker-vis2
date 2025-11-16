@@ -1049,7 +1049,7 @@
       "text": "Küche",
       "invertOrder": true,
       "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik0yMCA5VjRjMC0xLjEtLjktMi0yLTJINmMtMS4xIDAtMiAuOS0yIDJ2NWgxNnpNOCA1aDJ2M0g4VjV6bS00IDZ2OWMwIDEuMS45IDIgMiAyaDEyYzEuMSAwIDItLjkgMi0ydi05SDR6bTYgNkg4di01aDJ2NXoiLz48L3N2Zz4=",
-      "view": "kueche1",
+      "view": "kitchen1",
       "name": "w_button_room_kitchen1",
       "comment": null,
       "class": "c_buttonroom",
