@@ -551,7 +551,7 @@
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.CONTROL.office.window1.shutter-up",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -624,7 +624,9 @@
       "filterkey": null,
       "multi-views": null,
       "locked": null,
-      "g_fixed": true
+      "g_fixed": true,
+      "buttonHoldValue": true,
+      "valueTrue": "true"
     },
     "style": {
       "bindings": [],
@@ -646,7 +648,7 @@
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.CONTROL.office.window1.shutter-down",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -719,7 +721,9 @@
       "filterkey": null,
       "multi-views": null,
       "locked": null,
-      "g_fixed": true
+      "g_fixed": true,
+      "buttonHoldValue": true,
+      "valueTrue": "true"
     },
     "style": {
       "bindings": [],
@@ -953,7 +957,7 @@
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.CONTROL.child1.window1.shutter-up",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -1026,7 +1030,9 @@
       "filterkey": null,
       "multi-views": null,
       "locked": null,
-      "g_fixed": true
+      "g_fixed": true,
+      "valueTrue": "true",
+      "buttonHoldValue": true
     },
     "style": {
       "bindings": [],
@@ -1048,7 +1054,7 @@
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.CONTROL.child1.window1.shutter-down",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -1121,7 +1127,9 @@
       "filterkey": null,
       "multi-views": null,
       "locked": null,
-      "g_fixed": true
+      "g_fixed": true,
+      "buttonHoldValue": true,
+      "valueTrue": "true"
     },
     "style": {
       "bindings": [],
@@ -3807,7 +3815,7 @@
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.CONTROL.child2.window2.shutter-up",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -3880,7 +3888,9 @@
       "filterkey": null,
       "multi-views": null,
       "locked": null,
-      "g_fixed": true
+      "g_fixed": true,
+      "valueTrue": "true",
+      "buttonHoldValue": true
     },
     "style": {
       "bindings": [],
@@ -3902,7 +3912,7 @@
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.CONTROL.child2.window2.shutter-down",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -3975,7 +3985,9 @@
       "filterkey": null,
       "multi-views": null,
       "locked": null,
-      "g_fixed": true
+      "g_fixed": true,
+      "buttonHoldValue": true,
+      "valueTrue": "true"
     },
     "style": {
       "bindings": [],
@@ -3997,7 +4009,7 @@
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.CONTROL.child2.window1.shutter-up",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -4070,7 +4082,9 @@
       "filterkey": null,
       "multi-views": null,
       "locked": null,
-      "g_fixed": true
+      "g_fixed": true,
+      "buttonHoldValue": true,
+      "valueTrue": "true"
     },
     "style": {
       "bindings": [],
@@ -4092,7 +4106,7 @@
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.CONTROL.child2.window1.shutter-down",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -4165,7 +4179,9 @@
       "filterkey": null,
       "multi-views": null,
       "locked": null,
-      "g_fixed": true
+      "g_fixed": true,
+      "buttonHoldValue": true,
+      "valueTrue": "true"
     },
     "style": {
       "bindings": [],
@@ -4187,7 +4203,7 @@
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.CONTROL.bedroom.window1.shutter-up",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -4260,7 +4276,9 @@
       "filterkey": null,
       "multi-views": null,
       "locked": null,
-      "g_fixed": true
+      "g_fixed": true,
+      "valueTrue": "true",
+      "buttonHoldValue": true
     },
     "style": {
       "bindings": [],
@@ -4282,7 +4300,7 @@
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.CONTROL.bedroom.window1.shutter-down",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -4355,7 +4373,9 @@
       "filterkey": null,
       "multi-views": null,
       "locked": null,
-      "g_fixed": true
+      "g_fixed": true,
+      "buttonHoldValue": true,
+      "valueTrue": "true"
     },
     "style": {
       "bindings": [],
@@ -4377,7 +4397,7 @@
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.CONTROL.bedroom.window2.shutter-up",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -4450,7 +4470,9 @@
       "filterkey": null,
       "multi-views": null,
       "locked": null,
-      "g_fixed": true
+      "g_fixed": true,
+      "valueTrue": "true",
+      "buttonHoldValue": true
     },
     "style": {
       "bindings": [],
@@ -4472,7 +4494,7 @@
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.CONTROL.bedroom.window2.shutter-down",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -4545,7 +4567,9 @@
       "filterkey": null,
       "multi-views": null,
       "locked": null,
-      "g_fixed": true
+      "g_fixed": true,
+      "buttonHoldValue": true,
+      "valueTrue": "true"
     },
     "style": {
       "bindings": [],
@@ -4567,7 +4591,7 @@
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.CONTROL.bathroom.window1.shutter-up",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -4640,7 +4664,9 @@
       "filterkey": null,
       "multi-views": null,
       "locked": null,
-      "g_fixed": true
+      "g_fixed": true,
+      "buttonHoldValue": true,
+      "valueTrue": "true"
     },
     "style": {
       "bindings": [],
@@ -4662,7 +4688,7 @@
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.CONTROL.bathroom.window1.shutter-down",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -4735,7 +4761,9 @@
       "filterkey": null,
       "multi-views": null,
       "locked": null,
-      "g_fixed": true
+      "g_fixed": true,
+      "buttonHoldValue": true,
+      "valueTrue": "true"
     },
     "style": {
       "bindings": [],
@@ -4757,7 +4785,7 @@
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.CONTROL.tech.window1.shutter-up",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -4830,7 +4858,9 @@
       "filterkey": null,
       "multi-views": null,
       "locked": null,
-      "g_fixed": true
+      "g_fixed": true,
+      "buttonHoldValue": true,
+      "valueTrue": "true"
     },
     "style": {
       "bindings": [],
@@ -4852,7 +4882,7 @@
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.CONTROL.tech.window1.shutter-down",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -4925,7 +4955,9 @@
       "filterkey": null,
       "multi-views": null,
       "locked": null,
-      "g_fixed": true
+      "g_fixed": true,
+      "buttonHoldValue": true,
+      "valueTrue": "true"
     },
     "style": {
       "bindings": [],
@@ -4947,7 +4979,7 @@
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.CONTROL.kitchen.window1.shutter-up",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -5020,7 +5052,9 @@
       "filterkey": null,
       "multi-views": null,
       "locked": null,
-      "g_fixed": true
+      "g_fixed": true,
+      "buttonHoldValue": true,
+      "valueTrue": "true"
     },
     "style": {
       "bindings": [],
@@ -5042,7 +5076,7 @@
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.CONTROL.kitchen.window1.shutter-down",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -5115,7 +5149,9 @@
       "filterkey": null,
       "multi-views": null,
       "locked": null,
-      "g_fixed": true
+      "g_fixed": true,
+      "buttonHoldValue": true,
+      "valueTrue": "true"
     },
     "style": {
       "bindings": [],
@@ -5137,7 +5173,7 @@
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.CONTROL.livingroom.window1.shutter-up",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -5210,7 +5246,9 @@
       "filterkey": null,
       "multi-views": null,
       "locked": null,
-      "g_fixed": true
+      "g_fixed": true,
+      "buttonHoldValue": true,
+      "valueTrue": "true"
     },
     "style": {
       "bindings": [],
@@ -5232,7 +5270,7 @@
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.CONTROL.livingroom.window1.shutter-down",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -5305,7 +5343,9 @@
       "filterkey": null,
       "multi-views": null,
       "locked": null,
-      "g_fixed": true
+      "g_fixed": true,
+      "buttonHoldValue": true,
+      "valueTrue": "true"
     },
     "style": {
       "bindings": [],
