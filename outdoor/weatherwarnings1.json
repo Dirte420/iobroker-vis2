@@ -1,117 +1,122 @@
-[
-  {
-    "tpl": "tplHtml",
-    "data": {
-      "bindings": [],
-      "html": "{meteoalarm.0.htmlToday}",
-      "refreshInterval": null,
-      "g_common": true,
-      "g_css_font_text": true
-    },
-    "style": {
-      "bindings": [],
-      "left": "0",
-      "top": "40",
-      "width": "1193",
-      "height": "500",
-      "color": "rgba(0,0,0,1)",
-      "text-align": "left",
-      "text-shadow": null,
-      "font-family": null,
-      "font-style": null,
-      "font-variant": null,
-      "font-weight": null,
-      "font-size": null,
-      "line-height": null,
-      "letter-spacing": null,
-      "word-spacing": null
-    },
-    "widgetSet": "basic",
-    "_id": "i000001"
+{
+  "name": "weatherwarnings1",
+  "parentId": "519e6293-7442-4ddc-8d34-8b0667087a7b",
+  "settings": {
+    "style": {}
   },
-  {
-    "tpl": "tplValueString",
-    "data": {
-      "bindings": [],
-      "oid": "meteoalarm.0.lastUpdate",
-      "name": "w_label_lastupdate",
-      "comment": null,
-      "class": "c_label_lastupdate",
-      "filterkey": null,
-      "multi-views": null,
-      "locked": null,
-      "g_fixed": true,
-      "html_prepend": "Letzter Update:  ",
-      "g_css_font_text": true,
-      "g_css_shadow_padding": true
+  "widgets": {
+    "w000140": {
+      "tpl": "tplHtml",
+      "data": {
+        "bindings": [],
+        "html": "{meteoalarm.0.htmlToday}",
+        "refreshInterval": null,
+        "g_common": true,
+        "g_css_font_text": true
+      },
+      "style": {
+        "bindings": [],
+        "left": "0",
+        "top": "40",
+        "width": "1193",
+        "height": "500",
+        "color": "rgba(0,0,0,1)",
+        "text-align": "left",
+        "text-shadow": null,
+        "font-family": null,
+        "font-style": null,
+        "font-variant": null,
+        "font-weight": null,
+        "font-size": null,
+        "line-height": null,
+        "letter-spacing": null,
+        "word-spacing": null
+      },
+      "widgetSet": "basic"
     },
-    "style": {
-      "bindings": [],
-      "left": "0",
-      "top": "0",
-      "width": "300px",
-      "height": "30px",
-      "color": null,
-      "text-align": "left",
-      "text-shadow": null,
-      "font-family": null,
-      "font-style": null,
-      "font-variant": null,
-      "font-weight": null,
-      "font-size": null,
-      "line-height": null,
-      "letter-spacing": null,
-      "word-spacing": null,
-      "position": "",
-      "display": "",
-      "padding": null,
-      "padding-left": null,
-      "padding-top": "3",
-      "padding-right": null,
-      "padding-bottom": null,
-      "box-shadow": null,
-      "margin-left": null,
-      "margin-top": null,
-      "margin-right": null,
-      "margin-bottom": null
+    "w000141": {
+      "tpl": "tplValueString",
+      "data": {
+        "bindings": [],
+        "oid": "meteoalarm.0.lastUpdate",
+        "name": "w_label_lastupdate",
+        "comment": null,
+        "class": "c_label_lastupdate",
+        "filterkey": null,
+        "multi-views": null,
+        "locked": null,
+        "g_fixed": true,
+        "html_prepend": "Letzter Update:  ",
+        "g_css_font_text": true,
+        "g_css_shadow_padding": true
+      },
+      "style": {
+        "bindings": [],
+        "left": "0",
+        "top": "0",
+        "width": "300px",
+        "height": "30px",
+        "color": null,
+        "text-align": "left",
+        "text-shadow": null,
+        "font-family": null,
+        "font-style": null,
+        "font-variant": null,
+        "font-weight": null,
+        "font-size": null,
+        "line-height": null,
+        "letter-spacing": null,
+        "word-spacing": null,
+        "position": "",
+        "display": "",
+        "padding": null,
+        "padding-left": null,
+        "padding-top": "3",
+        "padding-right": null,
+        "padding-bottom": null,
+        "box-shadow": null,
+        "margin-left": null,
+        "margin-top": null,
+        "margin-right": null,
+        "margin-bottom": null
+      },
+      "widgetSet": "basic"
     },
-    "widgetSet": "basic",
-    "_id": "i000002"
+    "w000142": {
+      "tpl": "tplRedNumber",
+      "data": {
+        "bindings": [
+          "background"
+        ],
+        "oid": "meteoalarm.0.level",
+        "borderRadius": 16,
+        "g_common": true,
+        "html_prepend": "",
+        "html_append_singular": "",
+        "background": "{v:meteoalarm.0.color;v}",
+        "g_css_font_text": true,
+        "borderColor": "rgba(0,0,0,1)"
+      },
+      "style": {
+        "bindings": [],
+        "left": "1163",
+        "top": 0,
+        "width": "30",
+        "height": 30,
+        "color": "rgba(0,0,0,1)",
+        "text-align": null,
+        "text-shadow": null,
+        "font-family": null,
+        "font-style": null,
+        "font-variant": null,
+        "font-weight": null,
+        "font-size": null,
+        "line-height": null,
+        "letter-spacing": null,
+        "word-spacing": null
+      },
+      "widgetSet": "basic"
+    }
   },
-  {
-    "tpl": "tplRedNumber",
-    "data": {
-      "bindings": [
-        "background"
-      ],
-      "oid": "meteoalarm.0.level",
-      "borderRadius": 16,
-      "g_common": true,
-      "html_prepend": "",
-      "html_append_singular": "",
-      "background": "{v:meteoalarm.0.color;v}",
-      "g_css_font_text": true,
-      "borderColor": "rgba(0,0,0,1)"
-    },
-    "style": {
-      "bindings": [],
-      "left": "1163",
-      "top": 0,
-      "width": "30",
-      "height": 30,
-      "color": "rgba(0,0,0,1)",
-      "text-align": null,
-      "text-shadow": null,
-      "font-family": null,
-      "font-style": null,
-      "font-variant": null,
-      "font-weight": null,
-      "font-size": null,
-      "line-height": null,
-      "letter-spacing": null,
-      "word-spacing": null
-    },
-    "widgetSet": "basic",
-    "_id": "i000003"
-  }
-]
+  "activeWidgets": []
+}
