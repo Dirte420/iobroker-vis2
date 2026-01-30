@@ -1,0 +1,59 @@
+{
+  "name": "viewid",
+  "parentId": "0dde83a2-4b04-4060-b727-45b09e567165",
+  "settings": {
+    "style": {}
+  },
+  "widgets": {
+    "w004884": {
+      "tpl": "tplValueString",
+      "data": {
+        "bindings": [],
+        "oid": "nothing_selected",
+        "name": "w_label_enterviewid",
+        "test_html": "",
+        "html_prepend": "ViewId eingeben:"
+      },
+      "style": {
+        "bindings": [],
+        "left": "20",
+        "top": "20",
+        "width": "150",
+        "height": 30
+      },
+      "widgetSet": "basic"
+    },
+    "w004885": {
+      "tpl": "tplValueInput",
+      "data": {
+        "bindings": [],
+        "oid": "0_userdata.0.VIS.viewId",
+        "autoSetDelay": "2000",
+        "g_common": true,
+        "variant": "standard",
+        "name": "w_numfield_viewid",
+        "comment": null,
+        "class": null,
+        "filterkey": null,
+        "multi-views": null,
+        "locked": null,
+        "g_fixed": true,
+        "autoFocus": true,
+        "numeric": true,
+        "min": 0,
+        "max": 300,
+        "autoSet": false,
+        "withEnter": true
+      },
+      "style": {
+        "bindings": [],
+        "left": "170",
+        "top": "15",
+        "width": "50",
+        "height": "30"
+      },
+      "widgetSet": "basic"
+    }
+  },
+  "activeWidgets": []
+}
