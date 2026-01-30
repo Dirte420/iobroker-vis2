@@ -3,11 +3,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "0_userdata.0.VIS.actview",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -148,7 +148,8 @@
       "signals-blink-0": null,
       "signals-horz-0": null,
       "signals-vert-0": null,
-      "signals-hide-edit-0": null
+      "signals-hide-edit-0": null,
+      "valueTrue": "1"
     },
     "style": {
       "bindings": [],
@@ -166,11 +167,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "0_userdata.0.VIS.actview",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -294,7 +295,8 @@
       "innerShadowColor1": null,
       "innerShadowColorTrue1": null,
       "contentSize1": null,
-      "g_countStates-1": true
+      "g_countStates-1": true,
+      "valueTrue": "4"
     },
     "style": {
       "bindings": [],
@@ -312,11 +314,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "0_userdata.0.VIS.actview",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -440,7 +442,8 @@
       "innerShadowColor1": null,
       "innerShadowColorTrue1": null,
       "contentSize1": 0,
-      "g_countStates-1": true
+      "g_countStates-1": true,
+      "valueTrue": "2"
     },
     "style": {
       "bindings": [],
@@ -569,11 +572,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "0_userdata.0.VIS.actview",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -697,7 +700,8 @@
       "innerShadowColor1": null,
       "innerShadowColorTrue1": null,
       "contentSize1": 0,
-      "g_countStates-1": true
+      "g_countStates-1": true,
+      "valueTrue": "5"
     },
     "style": {
       "bindings": [],
@@ -715,11 +719,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "0_userdata.0.VIS.actview",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -843,7 +847,8 @@
       "innerShadowColor1": null,
       "innerShadowColorTrue1": null,
       "contentSize1": null,
-      "g_countStates-1": true
+      "g_countStates-1": true,
+      "valueTrue": "3"
     },
     "style": {
       "bindings": [],
@@ -861,11 +866,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -1008,7 +1013,8 @@
       "contentSize2": null,
       "g_countStates-2": true,
       "contentColor": "rgba(82,82,82,1)",
-      "view": "doors1"
+      "view": "doors1",
+      "valueTrue": "10"
     },
     "style": {
       "bindings": [],
@@ -1026,11 +1032,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -1173,7 +1179,8 @@
       "innerShadowColorTrue2": null,
       "contentSize2": null,
       "g_countStates-2": true,
-      "view": "windows1"
+      "view": "windows1",
+      "valueTrue": "13"
     },
     "style": {
       "bindings": [],
@@ -1191,11 +1198,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -1307,7 +1314,8 @@
       "contentSize1": null,
       "g_countStates-1": true,
       "contentColor": "rgba(82,82,82,1)",
-      "view": "alarms1"
+      "view": "alarms1",
+      "valueTrue": "30"
     },
     "style": {
       "bindings": [],
@@ -1541,7 +1549,7 @@
       "mode": "singleButton",
       "multi-views": null,
       "name": "w_status_icon_vault",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "oid1": "0_userdata.0.SUPERVISION.gunsafe-supervision-status",
       "oid2": "0_userdata.0.SUPERVISION.gunsafe-open-alarm",
       "oid3": "0_userdata.0.SUPERVISION.gunsafe-open",
@@ -1574,7 +1582,7 @@
       "textTrue1": null,
       "textTrue2": null,
       "textTrue3": null,
-      "type": "nav",
+      "type": "button",
       "undefined1": null,
       "undefined2": null,
       "undefined3": null,
@@ -1590,7 +1598,8 @@
       "viewInWidget3": null,
       "viewInWidgetTrue1": null,
       "viewInWidgetTrue2": null,
-      "viewInWidgetTrue3": null
+      "viewInWidgetTrue3": null,
+      "valueTrue": "12"
     },
     "style": {
       "bindings": [],
@@ -1610,11 +1619,11 @@
       "bindings": [
         "contentColor"
       ],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -1726,7 +1735,8 @@
       "contentSize1": null,
       "g_countStates-1": true,
       "contentColor": "{meteoalarm.0.color}",
-      "view": "weatherwarnings1"
+      "view": "weatherwarnings1",
+      "valueTrue": "158"
     },
     "style": {
       "bindings": [],
@@ -1744,11 +1754,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -2286,11 +2296,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -2341,7 +2351,7 @@
       "g_fixed": true,
       "view": "weatherstation1",
       "valueFalse": "false",
-      "valueTrue": "true"
+      "valueTrue": "157"
     },
     "style": {
       "bindings": [],
