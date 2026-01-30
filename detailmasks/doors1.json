@@ -3,11 +3,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -191,7 +191,8 @@
       "innerShadowColorTrue3": null,
       "contentSize3": 0,
       "g_countStates-3": true,
-      "g_css_font_text": true
+      "g_css_font_text": true,
+      "valueTrue": "70"
     },
     "style": {
       "bindings": [],
@@ -220,11 +221,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -408,7 +409,8 @@
       "innerShadowColorTrue3": null,
       "contentSize3": 0,
       "g_countStates-3": true,
-      "g_css_font_text": true
+      "g_css_font_text": true,
+      "valueTrue": "71"
     },
     "style": {
       "bindings": [],
@@ -437,11 +439,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -625,7 +627,8 @@
       "innerShadowColorTrue3": null,
       "contentSize3": 0,
       "g_countStates-3": true,
-      "g_css_font_text": true
+      "g_css_font_text": true,
+      "valueTrue": "72"
     },
     "style": {
       "bindings": [],
@@ -654,11 +657,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -842,7 +845,8 @@
       "innerShadowColorTrue3": null,
       "contentSize3": 0,
       "g_countStates-3": true,
-      "g_css_font_text": true
+      "g_css_font_text": true,
+      "valueTrue": "156"
     },
     "style": {
       "bindings": [],
@@ -871,11 +875,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -1059,7 +1063,8 @@
       "innerShadowColorTrue3": null,
       "contentSize3": 0,
       "g_countStates-3": true,
-      "g_css_font_text": true
+      "g_css_font_text": true,
+      "valueTrue": "152"
     },
     "style": {
       "bindings": [],
@@ -1088,11 +1093,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -1276,7 +1281,8 @@
       "innerShadowColorTrue3": null,
       "contentSize3": 0,
       "g_countStates-3": true,
-      "g_css_font_text": true
+      "g_css_font_text": true,
+      "valueTrue": "154"
     },
     "style": {
       "bindings": [],

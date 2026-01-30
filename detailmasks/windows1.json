@@ -141,7 +141,7 @@
       "mode": "singleButton",
       "multi-views": null,
       "name": "w_windowcomp_office1",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "oid1": "0_userdata.0.SUPERVISION.office.window1.alarm",
       "oid2": "alias.0.building.rooms.office.window1.ACTUAL",
       "oid3": "alias.0.building.rooms.office.window1.ACTUAL",
@@ -180,7 +180,7 @@
       "textTrue1": null,
       "textTrue2": null,
       "textTrue3": null,
-      "type": "nav",
+      "type": "button",
       "undefined1": null,
       "undefined2": null,
       "undefined3": null,
@@ -196,7 +196,8 @@
       "viewInWidget3": null,
       "viewInWidgetTrue1": null,
       "viewInWidgetTrue2": null,
-      "viewInWidgetTrue3": null
+      "viewInWidgetTrue3": null,
+      "valueTrue": "74"
     },
     "style": {
       "bindings": [],
@@ -879,7 +880,7 @@
       "mode": "singleButton",
       "multi-views": null,
       "name": "w_windowcomp_child1",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "oid1": "0_userdata.0.SUPERVISION.child1.window1.alarm",
       "oid2": "alias.0.building.rooms.child1.window1.ACTUAL",
       "oid3": "alias.0.building.rooms.child1.window1.ACTUAL",
@@ -918,7 +919,7 @@
       "textTrue1": null,
       "textTrue2": null,
       "textTrue3": null,
-      "type": "nav",
+      "type": "button",
       "undefined1": null,
       "undefined2": null,
       "undefined3": null,
@@ -934,7 +935,8 @@
       "viewInWidget3": null,
       "viewInWidgetTrue1": null,
       "viewInWidgetTrue2": null,
-      "viewInWidgetTrue3": null
+      "viewInWidgetTrue3": null,
+      "valueTrue": "83"
     },
     "style": {
       "bindings": [],
@@ -1617,7 +1619,7 @@
       "mode": "singleButton",
       "multi-views": null,
       "name": "w_windowcomp_child2_o",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "oid1": "0_userdata.0.SUPERVISION.child2.window2.alarm",
       "oid2": "alias.0.building.rooms.child2.window2.ACTUAL",
       "oid3": "alias.0.building.rooms.child2.window2.ACTUAL",
@@ -1656,7 +1658,7 @@
       "textTrue1": null,
       "textTrue2": null,
       "textTrue3": null,
-      "type": "nav",
+      "type": "button",
       "undefined1": null,
       "undefined2": null,
       "undefined3": null,
@@ -1672,7 +1674,8 @@
       "viewInWidget3": null,
       "viewInWidgetTrue1": null,
       "viewInWidgetTrue2": null,
-      "viewInWidgetTrue3": null
+      "viewInWidgetTrue3": null,
+      "valueTrue": "84"
     },
     "style": {
       "bindings": [],
@@ -1829,7 +1832,7 @@
       "mode": "singleButton",
       "multi-views": null,
       "name": "w_windowcomp_child2_s",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "oid1": "0_userdata.0.SUPERVISION.child2.window1.alarm",
       "oid2": "alias.0.building.rooms.child2.window1.ACTUAL",
       "oid3": "alias.0.building.rooms.child2.window1.ACTUAL",
@@ -1868,7 +1871,7 @@
       "textTrue1": null,
       "textTrue2": null,
       "textTrue3": null,
-      "type": "nav",
+      "type": "button",
       "undefined1": null,
       "undefined2": null,
       "undefined3": null,
@@ -1884,7 +1887,8 @@
       "viewInWidget3": null,
       "viewInWidgetTrue1": null,
       "viewInWidgetTrue2": null,
-      "viewInWidgetTrue3": null
+      "viewInWidgetTrue3": null,
+      "valueTrue": "84"
     },
     "style": {
       "bindings": [],
@@ -2041,7 +2045,7 @@
       "mode": "singleButton",
       "multi-views": null,
       "name": "w_windowcomp_bedroom1_s",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "oid1": "0_userdata.0.SUPERVISION.bedroom.window1.alarm",
       "oid2": "alias.0.building.rooms.bedroom.window1.ACTUAL",
       "oid3": "alias.0.building.rooms.bedroom.window1.ACTUAL",
@@ -2080,7 +2084,7 @@
       "textTrue1": null,
       "textTrue2": null,
       "textTrue3": null,
-      "type": "nav",
+      "type": "button",
       "undefined1": null,
       "undefined2": null,
       "undefined3": null,
@@ -2096,7 +2100,8 @@
       "viewInWidget3": null,
       "viewInWidgetTrue1": null,
       "viewInWidgetTrue2": null,
-      "viewInWidgetTrue3": null
+      "viewInWidgetTrue3": null,
+      "valueTrue": "82"
     },
     "style": {
       "bindings": [],
@@ -2253,7 +2258,7 @@
       "mode": "singleButton",
       "multi-views": null,
       "name": "w_windowcomp_bedroom1_w",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "oid1": "0_userdata.0.SUPERVISION.bedroom.window2.alarm",
       "oid2": "alias.0.building.rooms.bedroom.window2.ACTUAL",
       "oid3": "alias.0.building.rooms.bedroom.window2.ACTUAL",
@@ -2292,7 +2297,7 @@
       "textTrue1": null,
       "textTrue2": null,
       "textTrue3": null,
-      "type": "nav",
+      "type": "button",
       "undefined1": null,
       "undefined2": null,
       "undefined3": null,
@@ -2308,7 +2313,8 @@
       "viewInWidget3": null,
       "viewInWidgetTrue1": null,
       "viewInWidgetTrue2": null,
-      "viewInWidgetTrue3": null
+      "viewInWidgetTrue3": null,
+      "valueTrue": "82"
     },
     "style": {
       "bindings": [],
@@ -2465,7 +2471,7 @@
       "mode": "singleButton",
       "multi-views": null,
       "name": "w_windowcomp_bathroom1_w",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "oid1": "0_userdata.0.SUPERVISION.bathroom.window1.alarm",
       "oid2": "alias.0.building.rooms.bathroom.window1.ACTUAL",
       "oid3": "alias.0.building.rooms.bathroom.window1.ACTUAL",
@@ -2504,7 +2510,7 @@
       "textTrue1": null,
       "textTrue2": null,
       "textTrue3": null,
-      "type": "nav",
+      "type": "button",
       "undefined1": null,
       "undefined2": null,
       "undefined3": null,
@@ -2520,7 +2526,8 @@
       "viewInWidget3": null,
       "viewInWidgetTrue1": null,
       "viewInWidgetTrue2": null,
-      "viewInWidgetTrue3": null
+      "viewInWidgetTrue3": null,
+      "valueTrue": "81"
     },
     "style": {
       "bindings": [],
@@ -2677,7 +2684,7 @@
       "mode": "singleButton",
       "multi-views": null,
       "name": "w_windowcomp_bathroom1_n",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "oid1": "0_userdata.0.SUPERVISION.bathroom.window2.alarm",
       "oid2": "alias.0.building.rooms.bathroom.window2.ACTUAL",
       "oid3": "alias.0.building.rooms.bathroom.window2.ACTUAL",
@@ -2716,7 +2723,7 @@
       "textTrue1": null,
       "textTrue2": null,
       "textTrue3": null,
-      "type": "nav",
+      "type": "button",
       "undefined1": null,
       "undefined2": null,
       "undefined3": null,
@@ -2732,7 +2739,8 @@
       "viewInWidget3": null,
       "viewInWidgetTrue1": null,
       "viewInWidgetTrue2": null,
-      "viewInWidgetTrue3": null
+      "viewInWidgetTrue3": null,
+      "valueTrue": "81"
     },
     "style": {
       "bindings": [],
@@ -2889,7 +2897,7 @@
       "mode": "singleButton",
       "multi-views": null,
       "name": "w_windowcomp_stairway1",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "oid1": "0_userdata.0.SUPERVISION.stairwell.window1.alarm",
       "oid2": "alias.0.building.rooms.stairwell.window1.ACTUAL",
       "oid3": "alias.0.building.rooms.stairwell.window1.ACTUAL",
@@ -2928,7 +2936,7 @@
       "textTrue1": null,
       "textTrue2": null,
       "textTrue3": null,
-      "type": "nav",
+      "type": "button",
       "undefined1": null,
       "undefined2": null,
       "undefined3": null,
@@ -2944,7 +2952,8 @@
       "viewInWidget3": null,
       "viewInWidgetTrue1": null,
       "viewInWidgetTrue2": null,
-      "viewInWidgetTrue3": null
+      "viewInWidgetTrue3": null,
+      "valueTrue": "86"
     },
     "style": {
       "bindings": [],
@@ -3101,7 +3110,7 @@
       "mode": "singleButton",
       "multi-views": null,
       "name": "w_windowcomp_toilet1",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "oid1": "0_userdata.0.SUPERVISION.toilet.window1.alarm",
       "oid2": "alias.0.building.rooms.toilet.window1.ACTUAL",
       "oid3": "alias.0.building.rooms.toilet.window1.ACTUAL",
@@ -3140,7 +3149,7 @@
       "textTrue1": null,
       "textTrue2": null,
       "textTrue3": null,
-      "type": "nav",
+      "type": "button",
       "undefined1": null,
       "undefined2": null,
       "undefined3": null,
@@ -3156,7 +3165,8 @@
       "viewInWidget3": null,
       "viewInWidgetTrue1": null,
       "viewInWidgetTrue2": null,
-      "viewInWidgetTrue3": null
+      "viewInWidgetTrue3": null,
+      "valueTrue": "76"
     },
     "style": {
       "bindings": [],
@@ -3313,7 +3323,7 @@
       "mode": "singleButton",
       "multi-views": null,
       "name": "w_windowcomp_tech1",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "oid1": "0_userdata.0.SUPERVISION.tech.window1.alarm",
       "oid2": "alias.0.building.rooms.tech.window1.ACTUAL",
       "oid3": "alias.0.building.rooms.tech.window1.ACTUAL",
@@ -3352,7 +3362,7 @@
       "textTrue1": null,
       "textTrue2": null,
       "textTrue3": null,
-      "type": "nav",
+      "type": "button",
       "undefined1": null,
       "undefined2": null,
       "undefined3": null,
@@ -3368,7 +3378,8 @@
       "viewInWidget3": null,
       "viewInWidgetTrue1": null,
       "viewInWidgetTrue2": null,
-      "viewInWidgetTrue3": null
+      "viewInWidgetTrue3": null,
+      "valueTrue": "75"
     },
     "style": {
       "bindings": [],
@@ -3525,7 +3536,7 @@
       "mode": "singleButton",
       "multi-views": null,
       "name": "w_windowcomp_kitchen1",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "oid1": "",
       "oid2": "",
       "oid3": "",
@@ -3564,7 +3575,7 @@
       "textTrue1": null,
       "textTrue2": null,
       "textTrue3": null,
-      "type": "nav",
+      "type": "button",
       "undefined1": null,
       "undefined2": null,
       "undefined3": null,
@@ -3580,7 +3591,8 @@
       "viewInWidget3": null,
       "viewInWidgetTrue1": null,
       "viewInWidgetTrue2": null,
-      "viewInWidgetTrue3": null
+      "viewInWidgetTrue3": null,
+      "valueTrue": "71"
     },
     "style": {
       "bindings": [],
@@ -3737,7 +3749,7 @@
       "mode": "singleButton",
       "multi-views": null,
       "name": "w_windowcomp_livingroom1",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "oid1": "",
       "oid2": "",
       "oid3": "",
@@ -3776,7 +3788,7 @@
       "textTrue1": null,
       "textTrue2": null,
       "textTrue3": null,
-      "type": "nav",
+      "type": "button",
       "undefined1": null,
       "undefined2": null,
       "undefined3": null,
@@ -3792,7 +3804,8 @@
       "viewInWidget3": null,
       "viewInWidgetTrue1": null,
       "viewInWidgetTrue2": null,
-      "viewInWidgetTrue3": null
+      "viewInWidgetTrue3": null,
+      "valueTrue": "73"
     },
     "style": {
       "bindings": [],

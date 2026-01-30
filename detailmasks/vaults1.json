@@ -141,7 +141,7 @@
       "mode": "singleButton",
       "multi-views": null,
       "name": "w_vaultcomp_office",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "oid1": "0_userdata.0.SUPERVISION.office.security.gunsafe1.alarm",
       "oid2": "alias.0.building.rooms.office.gunsafe1.door1.ACTUAL",
       "oid3": "alias.0.building.rooms.office.gunsafe1.door1.ACTUAL",
@@ -180,7 +180,7 @@
       "textTrue1": null,
       "textTrue2": null,
       "textTrue3": null,
-      "type": "nav",
+      "type": "button",
       "undefined1": null,
       "undefined2": null,
       "undefined3": null,
@@ -196,7 +196,8 @@
       "viewInWidget3": null,
       "viewInWidgetTrue1": null,
       "viewInWidgetTrue2": null,
-      "viewInWidgetTrue3": null
+      "viewInWidgetTrue3": null,
+      "valueTrue": "100"
     },
     "style": {
       "bindings": [],
@@ -353,7 +354,7 @@
       "mode": "singleButton",
       "multi-views": null,
       "name": "w_vaultcomp_bedroom",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "oid1": "0_userdata.0.SUPERVISION.bedroom.security.gunsafe1.alarm",
       "oid2": "alias.0.building.rooms.bedroom.gunsafe1.door1.ACTUAL",
       "oid3": "alias.0.building.rooms.bedroom.gunsafe1.door1.ACTUAL",
@@ -392,7 +393,7 @@
       "textTrue1": null,
       "textTrue2": null,
       "textTrue3": null,
-      "type": "nav",
+      "type": "button",
       "undefined1": null,
       "undefined2": null,
       "undefined3": null,
@@ -408,7 +409,8 @@
       "viewInWidget3": null,
       "viewInWidgetTrue1": null,
       "viewInWidgetTrue2": null,
-      "viewInWidgetTrue3": null
+      "viewInWidgetTrue3": null,
+      "valueTrue": "101"
     },
     "style": {
       "bindings": [],

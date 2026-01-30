@@ -83,7 +83,7 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
@@ -263,7 +263,7 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
@@ -523,7 +523,7 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
@@ -783,7 +783,7 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
@@ -1043,7 +1043,7 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
@@ -1303,7 +1303,7 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
@@ -1563,7 +1563,7 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
@@ -1823,7 +1823,7 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
@@ -2083,7 +2083,7 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
@@ -2343,7 +2343,7 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
@@ -2603,7 +2603,7 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
@@ -2863,7 +2863,7 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
@@ -3123,11 +3123,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "alias.0.building.rooms.child1.roomtemp1.ACTUAL",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -3176,7 +3176,8 @@
       "multi-views": null,
       "locked": null,
       "g_fixed": true,
-      "view": "child1"
+      "view": "child1",
+      "valueTrue": "83"
     },
     "style": {
       "bindings": [],
@@ -3195,11 +3196,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "alias.0.building.rooms.child2.roomtemp1.ACTUAL",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -3248,7 +3249,8 @@
       "multi-views": null,
       "locked": null,
       "g_fixed": true,
-      "view": "child2"
+      "view": "child2",
+      "valueTrue": "84"
     },
     "style": {
       "bindings": [],
@@ -3267,11 +3269,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "alias.0.building.rooms.bedroom.roomtemp1.ACTUAL",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -3320,7 +3322,8 @@
       "multi-views": null,
       "locked": null,
       "g_fixed": true,
-      "view": "bedroom1"
+      "view": "bedroom1",
+      "valueTrue": "82"
     },
     "style": {
       "bindings": [],
@@ -3339,11 +3342,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "alias.0.building.rooms.bathroom.roomtemp1.ACTUAL",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -3392,7 +3395,8 @@
       "multi-views": null,
       "locked": null,
       "g_fixed": true,
-      "view": "bathroom1"
+      "view": "bathroom1",
+      "valueTrue": "81"
     },
     "style": {
       "bindings": [],
@@ -3411,11 +3415,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "alias.0.building.rooms.office.roomtemp1.ACTUAL",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -3464,7 +3468,8 @@
       "multi-views": null,
       "locked": null,
       "g_fixed": true,
-      "view": "office1"
+      "view": "office1",
+      "valueTrue": "74"
     },
     "style": {
       "bindings": [],
@@ -3483,11 +3488,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "alias.0.building.rooms.toilet.roomtemp1.ACTUAL",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -3536,7 +3541,8 @@
       "multi-views": null,
       "locked": null,
       "g_fixed": true,
-      "view": "toilet1"
+      "view": "toilet1",
+      "valueTrue": "76"
     },
     "style": {
       "bindings": [],
@@ -3555,11 +3561,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "alias.0.outdoor.carport.roomtemp1.ACTUAL",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -3608,7 +3614,8 @@
       "multi-views": null,
       "locked": null,
       "g_fixed": true,
-      "view": "warehouse1"
+      "view": "warehouse1",
+      "valueTrue": "156"
     },
     "style": {
       "bindings": [],
@@ -3627,11 +3634,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "alias.0.building.rooms.tech.roomtemp1.ACTUAL",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -3680,7 +3687,8 @@
       "multi-views": null,
       "locked": null,
       "g_fixed": true,
-      "view": "tech1"
+      "view": "tech1",
+      "valueTrue": "75"
     },
     "style": {
       "bindings": [],
@@ -3699,11 +3707,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "alias.0.building.rooms.kitchen.roomtemp1.ACTUAL",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -3752,7 +3760,8 @@
       "multi-views": null,
       "locked": null,
       "g_fixed": true,
-      "view": "kitchen1"
+      "view": "kitchen1",
+      "valueTrue": "71"
     },
     "style": {
       "bindings": [],
@@ -3771,11 +3780,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "alias.0.building.rooms.dining.roomtemp1.ACTUAL",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -3824,7 +3833,8 @@
       "multi-views": null,
       "locked": null,
       "g_fixed": true,
-      "view": "dining1"
+      "view": "dining1",
+      "valueTrue": "72"
     },
     "style": {
       "bindings": [],
@@ -3843,11 +3853,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "alias.0.building.rooms.livingroom.roomtemp1.ACTUAL",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -3896,7 +3906,8 @@
       "multi-views": null,
       "locked": null,
       "g_fixed": true,
-      "view": "livingroom1"
+      "view": "livingroom1",
+      "valueTrue": "73"
     },
     "style": {
       "bindings": [],
@@ -3915,11 +3926,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "alias.0.building.rooms.entrance.roomtemp1.ACTUAL",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -3968,7 +3979,8 @@
       "multi-views": null,
       "locked": null,
       "g_fixed": true,
-      "view": "entrance1"
+      "view": "entrance1",
+      "valueTrue": "70"
     },
     "style": {
       "bindings": [],
