@@ -104,8 +104,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "130",
-      "top": "60",
+      "left": "0",
+      "top": "0",
       "width": 110,
       "height": 110,
       "position": "absolute",
@@ -139,8 +139,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "131",
-      "top": "139",
+      "left": "1",
+      "top": "79",
       "width": "30px",
       "height": "30px"
     },
@@ -172,8 +172,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "209",
-      "top": 139,
+      "left": "79",
+      "top": 79,
       "width": "30px",
       "height": "30px"
     },
@@ -285,8 +285,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "250",
-      "top": "60",
+      "left": "120",
+      "top": "0",
       "width": 110,
       "height": 110,
       "position": "absolute",
@@ -320,8 +320,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "251",
-      "top": "139",
+      "left": "121",
+      "top": "79",
       "width": "30px",
       "height": "30px"
     },
@@ -353,8 +353,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "329",
-      "top": "139",
+      "left": "199",
+      "top": "79",
       "width": "30px",
       "height": "30px"
     },
@@ -466,8 +466,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "370",
-      "top": "60",
+      "left": "240",
+      "top": "0",
       "width": 110,
       "height": 110,
       "position": "absolute",
@@ -495,8 +495,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "371",
-      "top": "139",
+      "left": "241",
+      "top": "79",
       "width": "30px",
       "height": "30px"
     },
@@ -522,8 +522,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "449",
-      "top": "139",
+      "left": "319",
+      "top": "79",
       "width": "30px",
       "height": "30px"
     },
@@ -635,8 +635,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "490",
-      "top": "60",
+      "left": "360",
+      "top": "0",
       "width": 110,
       "height": 110,
       "position": "absolute",
@@ -750,8 +750,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "610",
-      "top": "60",
+      "left": "480",
+      "top": "0",
       "width": 110,
       "height": 110,
       "position": "absolute",
@@ -785,8 +785,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "611",
-      "top": "139",
+      "left": "481",
+      "top": "79",
       "width": "30px",
       "height": "30px"
     },
@@ -818,8 +818,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "689",
-      "top": "139",
+      "left": "559",
+      "top": "79",
       "width": "30px",
       "height": "30px"
     },
@@ -931,8 +931,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "130",
-      "top": "180",
+      "left": "0",
+      "top": "120",
       "width": "230",
       "height": 110,
       "position": "absolute",
@@ -957,8 +957,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "135",
-      "top": "190",
+      "left": "5",
+      "top": "130",
       "width": "220",
       "height": "35",
       "color": null,
@@ -992,8 +992,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "135",
-      "top": "225",
+      "left": "5",
+      "top": "165",
       "width": "220",
       "height": "35",
       "color": null,
@@ -1178,8 +1178,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "225",
-      "top": "245",
+      "left": "95",
+      "top": "185",
       "width": "40",
       "height": "40",
       "position": "absolute",
@@ -1355,8 +1355,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "265",
-      "top": "245",
+      "left": "135",
+      "top": "185",
       "width": "40",
       "height": "40",
       "position": "absolute",
@@ -1532,8 +1532,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "185",
-      "top": "245",
+      "left": "55",
+      "top": "185",
       "width": "40",
       "height": "40",
       "position": "absolute",

@@ -10,8 +10,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "130",
-      "top": "100",
+      "left": "0",
+      "top": "40",
       "width": "1193",
       "height": "500",
       "color": "rgba(0,0,0,1)",
@@ -47,8 +47,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "130",
-      "top": "60",
+      "left": "0",
+      "top": "0",
       "width": "300px",
       "height": "30px",
       "color": null,
@@ -95,8 +95,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "1293",
-      "top": 59,
+      "left": "1163",
+      "top": 0,
       "width": "30",
       "height": 30,
       "color": "rgba(0,0,0,1)",

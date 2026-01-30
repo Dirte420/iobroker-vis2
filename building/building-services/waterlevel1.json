@@ -135,8 +135,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "130",
-      "top": "60",
+      "left": "0",
+      "top": "0",
       "width": "200",
       "height": "300",
       "position": "absolute",
@@ -178,8 +178,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "130",
-      "top": "100",
+      "left": "0",
+      "top": "40",
       "width": "200",
       "height": "20",
       "color": null,
@@ -213,8 +213,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "130",
-      "top": "120",
+      "left": "0",
+      "top": "60",
       "width": "200",
       "height": "20",
       "color": null,
@@ -250,8 +250,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "140",
-      "top": "160",
+      "left": "10",
+      "top": "100",
       "width": "180",
       "height": "180"
     },
@@ -455,8 +455,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "130",
-      "top": "200",
+      "left": "0",
+      "top": "140",
       "width": "200",
       "height": 110,
       "position": "absolute",
@@ -481,8 +481,8 @@
     },
     "style": {
       "bindings": [],
-      "left": "130",
-      "top": "140",
+      "left": "0",
+      "top": "80",
       "width": "200",
       "height": "20",
       "color": null,
