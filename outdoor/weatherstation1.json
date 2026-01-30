@@ -1162,11 +1162,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -1217,7 +1217,7 @@
       "g_fixed": true,
       "view": "weatherwarnings1",
       "valueFalse": "false",
-      "valueTrue": ""
+      "valueTrue": "158"
     },
     "style": {
       "bindings": [],
