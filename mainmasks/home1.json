@@ -3,11 +3,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -100,7 +100,8 @@
       "filterkey": null,
       "multi-views": null,
       "locked": null,
-      "g_fixed": true
+      "g_fixed": true,
+      "valueTrue": "13"
     },
     "style": {
       "bindings": [],
@@ -184,11 +185,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -281,7 +282,8 @@
       "filterkey": null,
       "multi-views": null,
       "locked": null,
-      "g_fixed": true
+      "g_fixed": true,
+      "valueTrue": "10"
     },
     "style": {
       "bindings": [],
@@ -365,11 +367,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -462,7 +464,8 @@
       "filterkey": null,
       "multi-views": null,
       "locked": null,
-      "g_fixed": true
+      "g_fixed": true,
+      "valueTrue": "43"
     },
     "style": {
       "bindings": [],
@@ -534,11 +537,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -631,7 +634,8 @@
       "filterkey": null,
       "multi-views": null,
       "locked": null,
-      "g_fixed": true
+      "g_fixed": true,
+      "valueTrue": "11"
     },
     "style": {
       "bindings": [],
@@ -649,11 +653,11 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "button",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
-      "oid": "nothing_selected",
+      "oid": "0_userdata.0.VIS.viewId",
       "httpType": "send",
       "buttonSize": 110,
       "btnSpacing": 10,
@@ -746,7 +750,8 @@
       "filterkey": null,
       "multi-views": null,
       "locked": null,
-      "g_fixed": true
+      "g_fixed": true,
+      "valueTrue": "12"
     },
     "style": {
       "bindings": [],
@@ -830,7 +835,7 @@
     "tpl": "tplInventwoWidgetUniversal",
     "data": {
       "bindings": [],
-      "type": "nav",
+      "type": "readonly",
       "g_common": true,
       "mode": "singleButton",
       "direction": "row",
