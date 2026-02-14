@@ -1,11 +1,10 @@
 {
   "name": "internet1",
-  "parentId": "e4c4aed0-17a8-4616-ac55-df91e6c208bf",
   "settings": {
     "style": {}
   },
   "widgets": {
-    "w000300": {
+    "w004568": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "alignItems": "space-between",
@@ -185,7 +184,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000301": {
+    "w004569": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -216,7 +215,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000302": {
+    "w004570": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -289,7 +288,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000303": {
+    "w004571": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "alignItems": "space-between",
@@ -469,7 +468,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000304": {
+    "w004572": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -500,7 +499,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000305": {
+    "w004573": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -573,7 +572,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000306": {
+    "w004574": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -782,7 +781,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000307": {
+    "w004575": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -813,7 +812,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000308": {
+    "w004576": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -1022,7 +1021,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000309": {
+    "w004577": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -1053,7 +1052,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000310": {
+    "w004578": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -1231,7 +1230,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000311": {
+    "w004579": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -1261,7 +1260,230 @@
         "height": "50"
       },
       "widgetSet": "basic"
+    },
+    "w004941": {
+      "tpl": "tplInventwoWidgetUniversal",
+      "data": {
+        "bindings": [],
+        "type": "viewInDialog",
+        "g_common": true,
+        "mode": "singleButton",
+        "direction": "row",
+        "oid": "",
+        "httpType": "send",
+        "buttonSize": 110,
+        "btnSpacing": 10,
+        "countStates": 2,
+        "dialogWidth": 625,
+        "g_attr_group_type_view_in_dialog": true,
+        "dialogHeight": 405,
+        "dialogPadding": 10,
+        "dialogBackground": "rgb(18, 18, 18)",
+        "dialogTitleColor": "rgb(255,255,255)",
+        "dialogTitleSize": 20,
+        "dialogCloseButtonBackground": "rgba(255,255,255,0)",
+        "dialogCloseButtonColor": "rgba(255,255,255,1)",
+        "dialogCloseButtonSize": 14,
+        "dialogBorderRadiusTopLeft": 12,
+        "dialogBorderRadiusTopRight": 0,
+        "dialogBorderRadiusBottomRight": 12,
+        "dialogBorderRadiusBottomLeft": 0,
+        "feedbackDuration": 0,
+        "g_attr_group_click_feedback": true,
+        "backgroundFeedback": "rgba(69, 86, 24, 1)",
+        "outerShadowColorFeedback": "rgba(0, 0, 0, 1)",
+        "colorPickerColorModel": "hex",
+        "g_attr_content_color_picker": true,
+        "colorPickerWidth": 200,
+        "colorPickerHandleSize": 8,
+        "colorPickerHandleMargin": 6,
+        "colorPickerComponentsSpace": 12,
+        "colorPickerDirection": "vertical",
+        "colorPickerBorderWidth": 0,
+        "colorPickerShowWheel": true,
+        "colorPickerShowSaturation": true,
+        "colorPickerShowValue": true,
+        "backgroundOpacity": 0,
+        "g_attr_group_css_transparency": true,
+        "contentOpacity": 0,
+        "borderRadiusTopLeft": 12,
+        "g_attr_group_css_border_radius": true,
+        "borderRadiusTopRight": 0,
+        "borderRadiusBottomRight": 12,
+        "borderRadiusBottomLeft": 0,
+        "name": "w_navbutton_inv_temp",
+        "comment": null,
+        "class": "c_navbutton_inv",
+        "filterkey": null,
+        "multi-views": null,
+        "locked": null,
+        "g_fixed": true,
+        "view": "downspeed-internet1",
+        "valueFalse": "false",
+        "valueTrue": "true",
+        "dialogCloseOnClickOutside": true
+      },
+      "style": {
+        "bindings": [],
+        "left": "120",
+        "top": "0",
+        "width": "230",
+        "height": "230",
+        "position": "absolute",
+        "overflow": "visible",
+        "z-index": "1"
+      },
+      "widgetSet": "vis-2-widgets-inventwo"
+    },
+    "w004942": {
+      "tpl": "tplInventwoWidgetUniversal",
+      "data": {
+        "bindings": [],
+        "type": "viewInDialog",
+        "g_common": true,
+        "mode": "singleButton",
+        "direction": "row",
+        "oid": "",
+        "httpType": "send",
+        "buttonSize": 110,
+        "btnSpacing": 10,
+        "countStates": 2,
+        "dialogWidth": 625,
+        "g_attr_group_type_view_in_dialog": true,
+        "dialogHeight": 405,
+        "dialogPadding": 10,
+        "dialogBackground": "rgb(18, 18, 18)",
+        "dialogTitleColor": "rgb(255,255,255)",
+        "dialogTitleSize": 20,
+        "dialogCloseButtonBackground": "rgba(255,255,255,0)",
+        "dialogCloseButtonColor": "rgba(255,255,255,1)",
+        "dialogCloseButtonSize": 14,
+        "dialogBorderRadiusTopLeft": 12,
+        "dialogBorderRadiusTopRight": 0,
+        "dialogBorderRadiusBottomRight": 12,
+        "dialogBorderRadiusBottomLeft": 0,
+        "feedbackDuration": 0,
+        "g_attr_group_click_feedback": true,
+        "backgroundFeedback": "rgba(69, 86, 24, 1)",
+        "outerShadowColorFeedback": "rgba(0, 0, 0, 1)",
+        "colorPickerColorModel": "hex",
+        "g_attr_content_color_picker": true,
+        "colorPickerWidth": 200,
+        "colorPickerHandleSize": 8,
+        "colorPickerHandleMargin": 6,
+        "colorPickerComponentsSpace": 12,
+        "colorPickerDirection": "vertical",
+        "colorPickerBorderWidth": 0,
+        "colorPickerShowWheel": true,
+        "colorPickerShowSaturation": true,
+        "colorPickerShowValue": true,
+        "backgroundOpacity": 0,
+        "g_attr_group_css_transparency": true,
+        "contentOpacity": 0,
+        "borderRadiusTopLeft": 12,
+        "g_attr_group_css_border_radius": true,
+        "borderRadiusTopRight": 0,
+        "borderRadiusBottomRight": 12,
+        "borderRadiusBottomLeft": 0,
+        "name": "w_navbutton_inv_temp",
+        "comment": null,
+        "class": "c_navbutton_inv",
+        "filterkey": null,
+        "multi-views": null,
+        "locked": null,
+        "g_fixed": true,
+        "view": "upspeed-internet1",
+        "valueFalse": "false",
+        "valueTrue": "true",
+        "dialogCloseOnClickOutside": true
+      },
+      "style": {
+        "bindings": [],
+        "left": "360",
+        "top": "0",
+        "width": "230",
+        "height": "230",
+        "position": "absolute",
+        "overflow": "visible",
+        "z-index": "1"
+      },
+      "widgetSet": "vis-2-widgets-inventwo"
+    },
+    "w004943": {
+      "tpl": "tplInventwoWidgetUniversal",
+      "data": {
+        "bindings": [],
+        "type": "viewInDialog",
+        "g_common": true,
+        "mode": "singleButton",
+        "direction": "row",
+        "oid": "",
+        "httpType": "send",
+        "buttonSize": 110,
+        "btnSpacing": 10,
+        "countStates": 2,
+        "dialogWidth": 625,
+        "g_attr_group_type_view_in_dialog": true,
+        "dialogHeight": 405,
+        "dialogPadding": 10,
+        "dialogBackground": "rgb(18, 18, 18)",
+        "dialogTitleColor": "rgb(255,255,255)",
+        "dialogTitleSize": 20,
+        "dialogCloseButtonBackground": "rgba(255,255,255,0)",
+        "dialogCloseButtonColor": "rgba(255,255,255,1)",
+        "dialogCloseButtonSize": 14,
+        "dialogBorderRadiusTopLeft": 12,
+        "dialogBorderRadiusTopRight": 0,
+        "dialogBorderRadiusBottomRight": 12,
+        "dialogBorderRadiusBottomLeft": 0,
+        "feedbackDuration": 0,
+        "g_attr_group_click_feedback": true,
+        "backgroundFeedback": "rgba(69, 86, 24, 1)",
+        "outerShadowColorFeedback": "rgba(0, 0, 0, 1)",
+        "colorPickerColorModel": "hex",
+        "g_attr_content_color_picker": true,
+        "colorPickerWidth": 200,
+        "colorPickerHandleSize": 8,
+        "colorPickerHandleMargin": 6,
+        "colorPickerComponentsSpace": 12,
+        "colorPickerDirection": "vertical",
+        "colorPickerBorderWidth": 0,
+        "colorPickerShowWheel": true,
+        "colorPickerShowSaturation": true,
+        "colorPickerShowValue": true,
+        "backgroundOpacity": 0,
+        "g_attr_group_css_transparency": true,
+        "contentOpacity": 0,
+        "borderRadiusTopLeft": 12,
+        "g_attr_group_css_border_radius": true,
+        "borderRadiusTopRight": 0,
+        "borderRadiusBottomRight": 12,
+        "borderRadiusBottomLeft": 0,
+        "name": "w_navbutton_inv_temp",
+        "comment": null,
+        "class": "c_navbutton_inv",
+        "filterkey": null,
+        "multi-views": null,
+        "locked": null,
+        "g_fixed": true,
+        "view": "ping-internet1",
+        "valueFalse": "false",
+        "valueTrue": "true",
+        "dialogCloseOnClickOutside": true
+      },
+      "style": {
+        "bindings": [],
+        "left": "600",
+        "top": "0",
+        "width": "230",
+        "height": "230",
+        "position": "absolute",
+        "overflow": "visible",
+        "z-index": "1"
+      },
+      "widgetSet": "vis-2-widgets-inventwo"
     }
   },
-  "activeWidgets": []
+  "activeWidgets": [],
+  "parentId": "b0379849-01d5-4e86-980d-d5a4406d2702"
 }
