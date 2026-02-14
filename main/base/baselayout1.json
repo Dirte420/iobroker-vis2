@@ -2739,7 +2739,8 @@
         "g_fixed": true,
         "view": "viewid",
         "valueFalse": "false",
-        "valueTrue": ""
+        "valueTrue": "",
+        "dialogCloseOnClickOutside": true
       },
       "style": {
         "bindings": [],
