@@ -1,0 +1,29 @@
+{
+    "name": "humidity-livingroom1",
+    "parentId": "98deb22b-f2ed-4fb6-97b8-4df7c59737eb",
+    "settings": {
+        "style": {}
+    },
+    "widgets": {
+        "w004923": {
+            "tpl": "tplIFrame",
+            "data": {
+                "bindings": [],
+                "refreshInterval": 0,
+                "g_common": true,
+                "seamless": true,
+                "src": "http://192.168.1.125:3000/d-solo/QWvQpZgRk/wohnzimmer?orgId=1&panelId=6&from=now-24h&to=now&theme=dark",
+                "refreshOnWakeUp": false
+            },
+            "style": {
+                "bindings": [],
+                "left": "0",
+                "top": "0",
+                "width": 600,
+                "height": 320
+            },
+            "widgetSet": "basic"
+        }
+    },
+    "activeWidgets": []
+}

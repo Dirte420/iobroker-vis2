@@ -1,11 +1,10 @@
 {
   "name": "office1",
-  "parentId": "fb524848-7b64-4dd8-a008-28ea78d84c30",
   "settings": {
     "style": {}
   },
   "widgets": {
-    "w000534": {
+    "w004802": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -44,7 +43,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000535": {
+    "w004803": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -221,7 +220,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000536": {
+    "w004804": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -251,7 +250,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000537": {
+    "w004805": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "alignItems": "space-between",
@@ -428,7 +427,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000538": {
+    "w004806": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [
@@ -653,7 +652,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000539": {
+    "w004807": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -766,7 +765,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000540": {
+    "w004808": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -915,7 +914,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000541": {
+    "w004809": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -1066,7 +1065,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000542": {
+    "w004810": {
       "tpl": "tplInventwoWidgetSwitch",
       "data": {
         "bindings": [],
@@ -1126,7 +1125,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000543": {
+    "w004811": {
       "tpl": "tplInventwoWidgetSlider",
       "data": {
         "bindings": [],
@@ -1178,7 +1177,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000544": {
+    "w004812": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -1223,7 +1222,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000545": {
+    "w004813": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -1254,7 +1253,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000546": {
+    "w004814": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "alignItems": "space-between",
@@ -1434,7 +1433,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000547": {
+    "w004815": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "alignItems": "space-between",
@@ -1614,7 +1613,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000548": {
+    "w004816": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -1645,7 +1644,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000549": {
+    "w004817": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "alignItems": "space-between",
@@ -1825,7 +1824,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000550": {
+    "w004818": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -1856,7 +1855,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000551": {
+    "w004819": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -1929,7 +1928,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000552": {
+    "w004820": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -2002,7 +2001,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000553": {
+    "w004821": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -2075,7 +2074,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000554": {
+    "w004822": {
       "tpl": "tplValueFloatBar",
       "data": {
         "bindings": [
@@ -2123,7 +2122,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000555": {
+    "w004823": {
       "tpl": "tplValueFloatBar",
       "data": {
         "bindings": [
@@ -2171,7 +2170,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000556": {
+    "w004824": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -2216,7 +2215,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000557": {
+    "w004825": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -2262,7 +2261,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000558": {
+    "w004826": {
       "tpl": "tplValueString",
       "data": {
         "bindings": [],
@@ -2296,7 +2295,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000559": {
+    "w004827": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -2410,7 +2409,156 @@
         "overflow": "visible"
       },
       "widgetSet": "vis-2-widgets-inventwo"
+    },
+    "w004925": {
+      "tpl": "tplInventwoWidgetUniversal",
+      "data": {
+        "bindings": [],
+        "type": "viewInDialog",
+        "g_common": true,
+        "mode": "singleButton",
+        "direction": "row",
+        "oid": "",
+        "httpType": "send",
+        "buttonSize": 110,
+        "btnSpacing": 10,
+        "countStates": 2,
+        "dialogWidth": 625,
+        "g_attr_group_type_view_in_dialog": true,
+        "dialogHeight": 405,
+        "dialogPadding": 10,
+        "dialogBackground": "rgb(18, 18, 18)",
+        "dialogTitleColor": "rgb(255,255,255)",
+        "dialogTitleSize": 20,
+        "dialogCloseButtonBackground": "rgba(255,255,255,0)",
+        "dialogCloseButtonColor": "rgba(255,255,255,1)",
+        "dialogCloseButtonSize": 14,
+        "dialogBorderRadiusTopLeft": 12,
+        "dialogBorderRadiusTopRight": 0,
+        "dialogBorderRadiusBottomRight": 12,
+        "dialogBorderRadiusBottomLeft": 0,
+        "feedbackDuration": 0,
+        "g_attr_group_click_feedback": true,
+        "backgroundFeedback": "rgba(69, 86, 24, 1)",
+        "outerShadowColorFeedback": "rgba(0, 0, 0, 1)",
+        "colorPickerColorModel": "hex",
+        "g_attr_content_color_picker": true,
+        "colorPickerWidth": 200,
+        "colorPickerHandleSize": 8,
+        "colorPickerHandleMargin": 6,
+        "colorPickerComponentsSpace": 12,
+        "colorPickerDirection": "vertical",
+        "colorPickerBorderWidth": 0,
+        "colorPickerShowWheel": true,
+        "colorPickerShowSaturation": true,
+        "colorPickerShowValue": true,
+        "backgroundOpacity": 0,
+        "g_attr_group_css_transparency": true,
+        "contentOpacity": 0,
+        "borderRadiusTopLeft": 12,
+        "g_attr_group_css_border_radius": true,
+        "borderRadiusTopRight": 0,
+        "borderRadiusBottomRight": 12,
+        "borderRadiusBottomLeft": 0,
+        "name": "w_navbutton_inv_temp",
+        "comment": null,
+        "class": "c_navbutton_inv",
+        "filterkey": null,
+        "multi-views": null,
+        "locked": null,
+        "g_fixed": true,
+        "view": "temp-office1",
+        "valueFalse": "false",
+        "valueTrue": "true",
+        "dialogCloseOnClickOutside": true
+      },
+      "style": {
+        "bindings": [],
+        "left": "0",
+        "top": "0",
+        "width": 110,
+        "height": 110,
+        "position": "absolute",
+        "overflow": "visible",
+        "z-index": "1"
+      },
+      "widgetSet": "vis-2-widgets-inventwo"
+    },
+    "w004926": {
+      "tpl": "tplInventwoWidgetUniversal",
+      "data": {
+        "bindings": [],
+        "type": "viewInDialog",
+        "g_common": true,
+        "mode": "singleButton",
+        "direction": "row",
+        "oid": "",
+        "httpType": "send",
+        "buttonSize": 110,
+        "btnSpacing": 10,
+        "countStates": 2,
+        "dialogWidth": 625,
+        "g_attr_group_type_view_in_dialog": true,
+        "dialogHeight": 405,
+        "dialogPadding": 10,
+        "dialogBackground": "rgb(18, 18, 18)",
+        "dialogTitleColor": "rgb(255,255,255)",
+        "dialogTitleSize": 20,
+        "dialogCloseButtonBackground": "rgba(255,255,255,0)",
+        "dialogCloseButtonColor": "rgba(255,255,255,1)",
+        "dialogCloseButtonSize": 14,
+        "dialogBorderRadiusTopLeft": 12,
+        "dialogBorderRadiusTopRight": 0,
+        "dialogBorderRadiusBottomRight": 12,
+        "dialogBorderRadiusBottomLeft": 0,
+        "feedbackDuration": 0,
+        "g_attr_group_click_feedback": true,
+        "backgroundFeedback": "rgba(69, 86, 24, 1)",
+        "outerShadowColorFeedback": "rgba(0, 0, 0, 1)",
+        "colorPickerColorModel": "hex",
+        "g_attr_content_color_picker": true,
+        "colorPickerWidth": 200,
+        "colorPickerHandleSize": 8,
+        "colorPickerHandleMargin": 6,
+        "colorPickerComponentsSpace": 12,
+        "colorPickerDirection": "vertical",
+        "colorPickerBorderWidth": 0,
+        "colorPickerShowWheel": true,
+        "colorPickerShowSaturation": true,
+        "colorPickerShowValue": true,
+        "backgroundOpacity": 0,
+        "g_attr_group_css_transparency": true,
+        "contentOpacity": 0,
+        "borderRadiusTopLeft": 12,
+        "g_attr_group_css_border_radius": true,
+        "borderRadiusTopRight": 0,
+        "borderRadiusBottomRight": 12,
+        "borderRadiusBottomLeft": 0,
+        "name": "w_navbutton_inv_humidity",
+        "comment": null,
+        "class": "c_navbutton_inv",
+        "filterkey": null,
+        "multi-views": null,
+        "locked": null,
+        "g_fixed": true,
+        "view": "humidity-office1",
+        "valueFalse": "false",
+        "valueTrue": "true",
+        "dialogCloseOnClickOutside": true
+      },
+      "style": {
+        "bindings": [],
+        "left": "0",
+        "top": "120",
+        "width": 110,
+        "height": 110,
+        "position": "absolute",
+        "overflow": "visible",
+        "z-index": "1"
+      },
+      "widgetSet": "vis-2-widgets-inventwo"
     }
   },
-  "activeWidgets": []
+  "activeWidgets": [],
+  "parentId": "91e54f09-ff36-4f14-9dc5-a1f066b050cf"
 }

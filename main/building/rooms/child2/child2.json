@@ -1,11 +1,10 @@
 ﻿{
   "name": "child2",
-  "parentId": "38f0918b-b780-4482-8ad4-ef6e077427a7",
   "settings": {
     "style": {}
   },
   "widgets": {
-    "w000410": {
+    "w004678": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -44,7 +43,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000411": {
+    "w004679": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -221,7 +220,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000412": {
+    "w004680": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -251,7 +250,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000413": {
+    "w004681": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "alignItems": "space-between",
@@ -428,7 +427,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000414": {
+    "w004682": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [
@@ -653,7 +652,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000415": {
+    "w004683": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [
@@ -878,7 +877,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000416": {
+    "w004684": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -991,7 +990,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000417": {
+    "w004685": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -1104,7 +1103,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000418": {
+    "w004686": {
       "tpl": "tplInventwoWidgetSwitch",
       "data": {
         "bindings": [],
@@ -1164,7 +1163,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000419": {
+    "w004687": {
       "tpl": "tplInventwoWidgetSlider",
       "data": {
         "bindings": [],
@@ -1221,7 +1220,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000420": {
+    "w004688": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -1271,7 +1270,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000421": {
+    "w004689": {
       "tpl": "tplInventwoWidgetSwitch",
       "data": {
         "bindings": [],
@@ -1331,7 +1330,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000422": {
+    "w004690": {
       "tpl": "tplInventwoWidgetSlider",
       "data": {
         "bindings": [],
@@ -1388,7 +1387,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000423": {
+    "w004691": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -1438,7 +1437,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000424": {
+    "w004692": {
       "tpl": "tplValueFloatBar",
       "data": {
         "bindings": [
@@ -1486,7 +1485,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000425": {
+    "w004693": {
       "tpl": "tplValueFloatBar",
       "data": {
         "bindings": [
@@ -1534,7 +1533,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000426": {
+    "w004694": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -1579,7 +1578,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000427": {
+    "w004695": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -1625,7 +1624,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000428": {
+    "w004696": {
       "tpl": "tplValueFloatBar",
       "data": {
         "bindings": [
@@ -1673,7 +1672,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000429": {
+    "w004697": {
       "tpl": "tplValueFloatBar",
       "data": {
         "bindings": [
@@ -1721,7 +1720,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000430": {
+    "w004698": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -1766,7 +1765,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000431": {
+    "w004699": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -1812,7 +1811,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000432": {
+    "w004700": {
       "tpl": "tplValueString",
       "data": {
         "bindings": [],
@@ -1846,7 +1845,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000433": {
+    "w004701": {
       "tpl": "tplValueString",
       "data": {
         "bindings": [],
@@ -1880,7 +1879,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000434": {
+    "w004702": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -2003,7 +2002,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000435": {
+    "w004703": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -2151,7 +2150,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000436": {
+    "w004704": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -2299,7 +2298,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000437": {
+    "w004705": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -2447,7 +2446,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000438": {
+    "w004706": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -2569,7 +2568,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000439": {
+    "w004707": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -2716,7 +2715,156 @@
         "overflow": "visible"
       },
       "widgetSet": "vis-2-widgets-inventwo"
+    },
+    "w004905": {
+      "tpl": "tplInventwoWidgetUniversal",
+      "data": {
+        "bindings": [],
+        "type": "viewInDialog",
+        "g_common": true,
+        "mode": "singleButton",
+        "direction": "row",
+        "oid": "",
+        "httpType": "send",
+        "buttonSize": 110,
+        "btnSpacing": 10,
+        "countStates": 2,
+        "dialogWidth": 625,
+        "g_attr_group_type_view_in_dialog": true,
+        "dialogHeight": 405,
+        "dialogPadding": 10,
+        "dialogBackground": "rgb(18, 18, 18)",
+        "dialogTitleColor": "rgb(255,255,255)",
+        "dialogTitleSize": 20,
+        "dialogCloseButtonBackground": "rgba(255,255,255,0)",
+        "dialogCloseButtonColor": "rgba(255,255,255,1)",
+        "dialogCloseButtonSize": 14,
+        "dialogBorderRadiusTopLeft": 12,
+        "dialogBorderRadiusTopRight": 0,
+        "dialogBorderRadiusBottomRight": 12,
+        "dialogBorderRadiusBottomLeft": 0,
+        "feedbackDuration": 0,
+        "g_attr_group_click_feedback": true,
+        "backgroundFeedback": "rgba(69, 86, 24, 1)",
+        "outerShadowColorFeedback": "rgba(0, 0, 0, 1)",
+        "colorPickerColorModel": "hex",
+        "g_attr_content_color_picker": true,
+        "colorPickerWidth": 200,
+        "colorPickerHandleSize": 8,
+        "colorPickerHandleMargin": 6,
+        "colorPickerComponentsSpace": 12,
+        "colorPickerDirection": "vertical",
+        "colorPickerBorderWidth": 0,
+        "colorPickerShowWheel": true,
+        "colorPickerShowSaturation": true,
+        "colorPickerShowValue": true,
+        "backgroundOpacity": 0,
+        "g_attr_group_css_transparency": true,
+        "contentOpacity": 0,
+        "borderRadiusTopLeft": 12,
+        "g_attr_group_css_border_radius": true,
+        "borderRadiusTopRight": 0,
+        "borderRadiusBottomRight": 12,
+        "borderRadiusBottomLeft": 0,
+        "name": "w_navbutton_inv_temp",
+        "comment": null,
+        "class": "c_navbutton_inv",
+        "filterkey": null,
+        "multi-views": null,
+        "locked": null,
+        "g_fixed": true,
+        "view": "temp-child2",
+        "valueFalse": "false",
+        "valueTrue": "true",
+        "dialogCloseOnClickOutside": true
+      },
+      "style": {
+        "bindings": [],
+        "left": "0",
+        "top": "0",
+        "width": 110,
+        "height": 110,
+        "position": "absolute",
+        "overflow": "visible",
+        "z-index": "1"
+      },
+      "widgetSet": "vis-2-widgets-inventwo"
+    },
+    "w004906": {
+      "tpl": "tplInventwoWidgetUniversal",
+      "data": {
+        "bindings": [],
+        "type": "viewInDialog",
+        "g_common": true,
+        "mode": "singleButton",
+        "direction": "row",
+        "oid": "",
+        "httpType": "send",
+        "buttonSize": 110,
+        "btnSpacing": 10,
+        "countStates": 2,
+        "dialogWidth": 625,
+        "g_attr_group_type_view_in_dialog": true,
+        "dialogHeight": 405,
+        "dialogPadding": 10,
+        "dialogBackground": "rgb(18, 18, 18)",
+        "dialogTitleColor": "rgb(255,255,255)",
+        "dialogTitleSize": 20,
+        "dialogCloseButtonBackground": "rgba(255,255,255,0)",
+        "dialogCloseButtonColor": "rgba(255,255,255,1)",
+        "dialogCloseButtonSize": 14,
+        "dialogBorderRadiusTopLeft": 12,
+        "dialogBorderRadiusTopRight": 0,
+        "dialogBorderRadiusBottomRight": 12,
+        "dialogBorderRadiusBottomLeft": 0,
+        "feedbackDuration": 0,
+        "g_attr_group_click_feedback": true,
+        "backgroundFeedback": "rgba(69, 86, 24, 1)",
+        "outerShadowColorFeedback": "rgba(0, 0, 0, 1)",
+        "colorPickerColorModel": "hex",
+        "g_attr_content_color_picker": true,
+        "colorPickerWidth": 200,
+        "colorPickerHandleSize": 8,
+        "colorPickerHandleMargin": 6,
+        "colorPickerComponentsSpace": 12,
+        "colorPickerDirection": "vertical",
+        "colorPickerBorderWidth": 0,
+        "colorPickerShowWheel": true,
+        "colorPickerShowSaturation": true,
+        "colorPickerShowValue": true,
+        "backgroundOpacity": 0,
+        "g_attr_group_css_transparency": true,
+        "contentOpacity": 0,
+        "borderRadiusTopLeft": 12,
+        "g_attr_group_css_border_radius": true,
+        "borderRadiusTopRight": 0,
+        "borderRadiusBottomRight": 12,
+        "borderRadiusBottomLeft": 0,
+        "name": "w_navbutton_inv_humidity",
+        "comment": null,
+        "class": "c_navbutton_inv",
+        "filterkey": null,
+        "multi-views": null,
+        "locked": null,
+        "g_fixed": true,
+        "view": "humidity-child2",
+        "valueFalse": "false",
+        "valueTrue": "true",
+        "dialogCloseOnClickOutside": true
+      },
+      "style": {
+        "bindings": [],
+        "left": "0",
+        "top": "120",
+        "width": 110,
+        "height": 110,
+        "position": "absolute",
+        "overflow": "visible",
+        "z-index": "1"
+      },
+      "widgetSet": "vis-2-widgets-inventwo"
     }
   },
-  "activeWidgets": []
+  "activeWidgets": [],
+  "parentId": "404f5a9a-7f70-4533-b834-27acb3c765fe"
 }

@@ -1,0 +1,29 @@
+{
+    "name": "temp-warehouse1",
+    "parentId": "465bd38f-9430-467d-a837-746bd6ecaa6f",
+    "settings": {
+        "style": {}
+    },
+    "widgets": {
+        "w004939": {
+            "tpl": "tplIFrame",
+            "data": {
+                "bindings": [],
+                "refreshInterval": 0,
+                "g_common": true,
+                "seamless": true,
+                "src": "http://192.168.1.125:3000/d-solo/39b3ab1a-eb73-48ce-9231-c7f6bb6c6b10/carport-lager?folderUid=dfd7978es7shsd&orgId=1&panelId=1&from=now-24h&to=now&theme=dark",
+                "refreshOnWakeUp": false
+            },
+            "style": {
+                "bindings": [],
+                "left": "0",
+                "top": "0",
+                "width": 600,
+                "height": 320
+            },
+            "widgetSet": "basic"
+        }
+    },
+    "activeWidgets": []
+}

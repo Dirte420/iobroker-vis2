@@ -1,0 +1,29 @@
+{
+    "name": "humidity-tech1",
+    "parentId": "e8c9a3b6-6c20-45e6-8834-452ba92ec0c7",
+    "settings": {
+        "style": {}
+    },
+    "widgets": {
+        "w004931": {
+            "tpl": "tplIFrame",
+            "data": {
+                "bindings": [],
+                "refreshInterval": 0,
+                "g_common": true,
+                "seamless": true,
+                "src": "http://192.168.1.125:3000/d-solo/uDa9JPWgk/technikraum?orgId=1&panelId=8&from=now-24h&to=now&theme=dark",
+                "refreshOnWakeUp": false
+            },
+            "style": {
+                "bindings": [],
+                "left": "0",
+                "top": "0",
+                "width": 600,
+                "height": 320
+            },
+            "widgetSet": "basic"
+        }
+    },
+    "activeWidgets": []
+}

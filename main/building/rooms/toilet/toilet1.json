@@ -1,11 +1,10 @@
 {
   "name": "toilet1",
-  "parentId": "a4db38a4-9b4c-4251-8625-d1dd4c751c57",
   "settings": {
     "style": {}
   },
   "widgets": {
-    "w000599": {
+    "w004867": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -44,7 +43,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000600": {
+    "w004868": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -74,7 +73,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000601": {
+    "w004869": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "alignItems": "space-between",
@@ -251,7 +250,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000602": {
+    "w004870": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -428,7 +427,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000603": {
+    "w004871": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [
@@ -653,7 +652,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000604": {
+    "w004872": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -766,7 +765,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000605": {
+    "w004873": {
       "tpl": "tplInventwoWidgetSwitch",
       "data": {
         "bindings": [],
@@ -826,7 +825,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000606": {
+    "w004874": {
       "tpl": "tplInventwoWidgetSlider",
       "data": {
         "bindings": [],
@@ -883,7 +882,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000607": {
+    "w004875": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -933,7 +932,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000608": {
+    "w004876": {
       "tpl": "tplValueFloatBar",
       "data": {
         "bindings": [
@@ -981,7 +980,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000609": {
+    "w004877": {
       "tpl": "tplValueFloatBar",
       "data": {
         "bindings": [
@@ -1029,7 +1028,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000610": {
+    "w004878": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -1074,7 +1073,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000611": {
+    "w004879": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -1120,7 +1119,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000612": {
+    "w004880": {
       "tpl": "tplValueString",
       "data": {
         "bindings": [],
@@ -1153,7 +1152,156 @@
         "word-spacing": null
       },
       "widgetSet": "basic"
+    },
+    "w004933": {
+      "tpl": "tplInventwoWidgetUniversal",
+      "data": {
+        "bindings": [],
+        "type": "viewInDialog",
+        "g_common": true,
+        "mode": "singleButton",
+        "direction": "row",
+        "oid": "",
+        "httpType": "send",
+        "buttonSize": 110,
+        "btnSpacing": 10,
+        "countStates": 2,
+        "dialogWidth": 625,
+        "g_attr_group_type_view_in_dialog": true,
+        "dialogHeight": 405,
+        "dialogPadding": 10,
+        "dialogBackground": "rgb(18, 18, 18)",
+        "dialogTitleColor": "rgb(255,255,255)",
+        "dialogTitleSize": 20,
+        "dialogCloseButtonBackground": "rgba(255,255,255,0)",
+        "dialogCloseButtonColor": "rgba(255,255,255,1)",
+        "dialogCloseButtonSize": 14,
+        "dialogBorderRadiusTopLeft": 12,
+        "dialogBorderRadiusTopRight": 0,
+        "dialogBorderRadiusBottomRight": 12,
+        "dialogBorderRadiusBottomLeft": 0,
+        "feedbackDuration": 0,
+        "g_attr_group_click_feedback": true,
+        "backgroundFeedback": "rgba(69, 86, 24, 1)",
+        "outerShadowColorFeedback": "rgba(0, 0, 0, 1)",
+        "colorPickerColorModel": "hex",
+        "g_attr_content_color_picker": true,
+        "colorPickerWidth": 200,
+        "colorPickerHandleSize": 8,
+        "colorPickerHandleMargin": 6,
+        "colorPickerComponentsSpace": 12,
+        "colorPickerDirection": "vertical",
+        "colorPickerBorderWidth": 0,
+        "colorPickerShowWheel": true,
+        "colorPickerShowSaturation": true,
+        "colorPickerShowValue": true,
+        "backgroundOpacity": 0,
+        "g_attr_group_css_transparency": true,
+        "contentOpacity": 0,
+        "borderRadiusTopLeft": 12,
+        "g_attr_group_css_border_radius": true,
+        "borderRadiusTopRight": 0,
+        "borderRadiusBottomRight": 12,
+        "borderRadiusBottomLeft": 0,
+        "name": "w_navbutton_inv_humidity",
+        "comment": null,
+        "class": "c_navbutton_inv",
+        "filterkey": null,
+        "multi-views": null,
+        "locked": null,
+        "g_fixed": true,
+        "view": "humidity-toilet1",
+        "valueFalse": "false",
+        "valueTrue": "true",
+        "dialogCloseOnClickOutside": true
+      },
+      "style": {
+        "bindings": [],
+        "left": "0",
+        "top": "120",
+        "width": 110,
+        "height": 110,
+        "position": "absolute",
+        "overflow": "visible",
+        "z-index": "1"
+      },
+      "widgetSet": "vis-2-widgets-inventwo"
+    },
+    "w004934": {
+      "tpl": "tplInventwoWidgetUniversal",
+      "data": {
+        "bindings": [],
+        "type": "viewInDialog",
+        "g_common": true,
+        "mode": "singleButton",
+        "direction": "row",
+        "oid": "",
+        "httpType": "send",
+        "buttonSize": 110,
+        "btnSpacing": 10,
+        "countStates": 2,
+        "dialogWidth": 625,
+        "g_attr_group_type_view_in_dialog": true,
+        "dialogHeight": 405,
+        "dialogPadding": 10,
+        "dialogBackground": "rgb(18, 18, 18)",
+        "dialogTitleColor": "rgb(255,255,255)",
+        "dialogTitleSize": 20,
+        "dialogCloseButtonBackground": "rgba(255,255,255,0)",
+        "dialogCloseButtonColor": "rgba(255,255,255,1)",
+        "dialogCloseButtonSize": 14,
+        "dialogBorderRadiusTopLeft": 12,
+        "dialogBorderRadiusTopRight": 0,
+        "dialogBorderRadiusBottomRight": 12,
+        "dialogBorderRadiusBottomLeft": 0,
+        "feedbackDuration": 0,
+        "g_attr_group_click_feedback": true,
+        "backgroundFeedback": "rgba(69, 86, 24, 1)",
+        "outerShadowColorFeedback": "rgba(0, 0, 0, 1)",
+        "colorPickerColorModel": "hex",
+        "g_attr_content_color_picker": true,
+        "colorPickerWidth": 200,
+        "colorPickerHandleSize": 8,
+        "colorPickerHandleMargin": 6,
+        "colorPickerComponentsSpace": 12,
+        "colorPickerDirection": "vertical",
+        "colorPickerBorderWidth": 0,
+        "colorPickerShowWheel": true,
+        "colorPickerShowSaturation": true,
+        "colorPickerShowValue": true,
+        "backgroundOpacity": 0,
+        "g_attr_group_css_transparency": true,
+        "contentOpacity": 0,
+        "borderRadiusTopLeft": 12,
+        "g_attr_group_css_border_radius": true,
+        "borderRadiusTopRight": 0,
+        "borderRadiusBottomRight": 12,
+        "borderRadiusBottomLeft": 0,
+        "name": "w_navbutton_inv_temp",
+        "comment": null,
+        "class": "c_navbutton_inv",
+        "filterkey": null,
+        "multi-views": null,
+        "locked": null,
+        "g_fixed": true,
+        "view": "temp-toilet1",
+        "valueFalse": "false",
+        "valueTrue": "true",
+        "dialogCloseOnClickOutside": true
+      },
+      "style": {
+        "bindings": [],
+        "left": "0",
+        "top": "0",
+        "width": 110,
+        "height": 110,
+        "position": "absolute",
+        "overflow": "visible",
+        "z-index": "1"
+      },
+      "widgetSet": "vis-2-widgets-inventwo"
     }
   },
-  "activeWidgets": []
+  "activeWidgets": [],
+  "parentId": "f05bbdf8-3e88-43dc-9ec1-61276be3bae8"
 }

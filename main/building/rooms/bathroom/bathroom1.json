@@ -1,11 +1,10 @@
 {
   "name": "bathroom1",
-  "parentId": "65c4d498-0789-4596-9977-46488060267f",
   "settings": {
     "style": {}
   },
   "widgets": {
-    "w000319": {
+    "w004587": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -44,7 +43,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000320": {
+    "w004588": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -74,7 +73,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000321": {
+    "w004589": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "alignItems": "space-between",
@@ -251,7 +250,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000322": {
+    "w004590": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -428,7 +427,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000323": {
+    "w004591": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [
@@ -653,7 +652,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000324": {
+    "w004592": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [
@@ -878,7 +877,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000325": {
+    "w004593": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -991,7 +990,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000326": {
+    "w004594": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -1104,7 +1103,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000327": {
+    "w004595": {
       "tpl": "tplInventwoWidgetSwitch",
       "data": {
         "bindings": [],
@@ -1164,7 +1163,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000328": {
+    "w004596": {
       "tpl": "tplInventwoWidgetSwitch",
       "data": {
         "bindings": [],
@@ -1224,7 +1223,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000329": {
+    "w004597": {
       "tpl": "tplInventwoWidgetSlider",
       "data": {
         "bindings": [],
@@ -1281,7 +1280,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000330": {
+    "w004598": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -1331,7 +1330,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000331": {
+    "w004599": {
       "tpl": "tplInventwoWidgetSlider",
       "data": {
         "bindings": [],
@@ -1388,7 +1387,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000332": {
+    "w004600": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -1438,7 +1437,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000333": {
+    "w004601": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "alignItems": "space-between",
@@ -1618,7 +1617,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000334": {
+    "w004602": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -1649,7 +1648,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000335": {
+    "w004603": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "alignItems": "space-between",
@@ -1829,7 +1828,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000336": {
+    "w004604": {
       "tpl": "tplValueFloatBar",
       "data": {
         "bindings": [
@@ -1877,7 +1876,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000337": {
+    "w004605": {
       "tpl": "tplValueFloatBar",
       "data": {
         "bindings": [
@@ -1925,7 +1924,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000338": {
+    "w004606": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -1970,7 +1969,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000339": {
+    "w004607": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -2016,7 +2015,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000340": {
+    "w004608": {
       "tpl": "tplValueFloatBar",
       "data": {
         "bindings": [
@@ -2064,7 +2063,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000341": {
+    "w004609": {
       "tpl": "tplValueFloatBar",
       "data": {
         "bindings": [
@@ -2112,7 +2111,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000342": {
+    "w004610": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -2157,7 +2156,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000343": {
+    "w004611": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -2203,7 +2202,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000344": {
+    "w004612": {
       "tpl": "tplValueString",
       "data": {
         "bindings": [],
@@ -2237,7 +2236,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000345": {
+    "w004613": {
       "tpl": "tplValueString",
       "data": {
         "bindings": [],
@@ -2271,7 +2270,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000346": {
+    "w004614": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -2394,7 +2393,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000347": {
+    "w004615": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -2542,7 +2541,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000348": {
+    "w004616": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -2689,7 +2688,156 @@
         "overflow": "visible"
       },
       "widgetSet": "vis-2-widgets-inventwo"
+    },
+    "w004895": {
+      "tpl": "tplInventwoWidgetUniversal",
+      "data": {
+        "bindings": [],
+        "type": "viewInDialog",
+        "g_common": true,
+        "mode": "singleButton",
+        "direction": "row",
+        "oid": "",
+        "httpType": "send",
+        "buttonSize": 110,
+        "btnSpacing": 10,
+        "countStates": 2,
+        "dialogWidth": 625,
+        "g_attr_group_type_view_in_dialog": true,
+        "dialogHeight": 405,
+        "dialogPadding": 10,
+        "dialogBackground": "rgb(18, 18, 18)",
+        "dialogTitleColor": "rgb(255,255,255)",
+        "dialogTitleSize": 20,
+        "dialogCloseButtonBackground": "rgba(255,255,255,0)",
+        "dialogCloseButtonColor": "rgba(255,255,255,1)",
+        "dialogCloseButtonSize": 14,
+        "dialogBorderRadiusTopLeft": 12,
+        "dialogBorderRadiusTopRight": 0,
+        "dialogBorderRadiusBottomRight": 12,
+        "dialogBorderRadiusBottomLeft": 0,
+        "feedbackDuration": 0,
+        "g_attr_group_click_feedback": true,
+        "backgroundFeedback": "rgba(69, 86, 24, 1)",
+        "outerShadowColorFeedback": "rgba(0, 0, 0, 1)",
+        "colorPickerColorModel": "hex",
+        "g_attr_content_color_picker": true,
+        "colorPickerWidth": 200,
+        "colorPickerHandleSize": 8,
+        "colorPickerHandleMargin": 6,
+        "colorPickerComponentsSpace": 12,
+        "colorPickerDirection": "vertical",
+        "colorPickerBorderWidth": 0,
+        "colorPickerShowWheel": true,
+        "colorPickerShowSaturation": true,
+        "colorPickerShowValue": true,
+        "backgroundOpacity": 0,
+        "g_attr_group_css_transparency": true,
+        "contentOpacity": 0,
+        "borderRadiusTopLeft": 12,
+        "g_attr_group_css_border_radius": true,
+        "borderRadiusTopRight": 0,
+        "borderRadiusBottomRight": 12,
+        "borderRadiusBottomLeft": 0,
+        "name": "w_navbutton_inv_temp",
+        "comment": null,
+        "class": "c_navbutton_inv",
+        "filterkey": null,
+        "multi-views": null,
+        "locked": null,
+        "g_fixed": true,
+        "view": "temp-bathroom1",
+        "valueFalse": "false",
+        "valueTrue": "true",
+        "dialogCloseOnClickOutside": true
+      },
+      "style": {
+        "bindings": [],
+        "left": "0",
+        "top": "0",
+        "width": 110,
+        "height": 110,
+        "position": "absolute",
+        "overflow": "visible",
+        "z-index": "1"
+      },
+      "widgetSet": "vis-2-widgets-inventwo"
+    },
+    "w004896": {
+      "tpl": "tplInventwoWidgetUniversal",
+      "data": {
+        "bindings": [],
+        "type": "viewInDialog",
+        "g_common": true,
+        "mode": "singleButton",
+        "direction": "row",
+        "oid": "",
+        "httpType": "send",
+        "buttonSize": 110,
+        "btnSpacing": 10,
+        "countStates": 2,
+        "dialogWidth": 625,
+        "g_attr_group_type_view_in_dialog": true,
+        "dialogHeight": 405,
+        "dialogPadding": 10,
+        "dialogBackground": "rgb(18, 18, 18)",
+        "dialogTitleColor": "rgb(255,255,255)",
+        "dialogTitleSize": 20,
+        "dialogCloseButtonBackground": "rgba(255,255,255,0)",
+        "dialogCloseButtonColor": "rgba(255,255,255,1)",
+        "dialogCloseButtonSize": 14,
+        "dialogBorderRadiusTopLeft": 12,
+        "dialogBorderRadiusTopRight": 0,
+        "dialogBorderRadiusBottomRight": 12,
+        "dialogBorderRadiusBottomLeft": 0,
+        "feedbackDuration": 0,
+        "g_attr_group_click_feedback": true,
+        "backgroundFeedback": "rgba(69, 86, 24, 1)",
+        "outerShadowColorFeedback": "rgba(0, 0, 0, 1)",
+        "colorPickerColorModel": "hex",
+        "g_attr_content_color_picker": true,
+        "colorPickerWidth": 200,
+        "colorPickerHandleSize": 8,
+        "colorPickerHandleMargin": 6,
+        "colorPickerComponentsSpace": 12,
+        "colorPickerDirection": "vertical",
+        "colorPickerBorderWidth": 0,
+        "colorPickerShowWheel": true,
+        "colorPickerShowSaturation": true,
+        "colorPickerShowValue": true,
+        "backgroundOpacity": 0,
+        "g_attr_group_css_transparency": true,
+        "contentOpacity": 0,
+        "borderRadiusTopLeft": 12,
+        "g_attr_group_css_border_radius": true,
+        "borderRadiusTopRight": 0,
+        "borderRadiusBottomRight": 12,
+        "borderRadiusBottomLeft": 0,
+        "name": "w_navbutton_inv_humidity",
+        "comment": null,
+        "class": "c_navbutton_inv",
+        "filterkey": null,
+        "multi-views": null,
+        "locked": null,
+        "g_fixed": true,
+        "view": "humidity-bathroom1",
+        "valueFalse": "false",
+        "valueTrue": "true",
+        "dialogCloseOnClickOutside": true
+      },
+      "style": {
+        "bindings": [],
+        "left": "0",
+        "top": "120",
+        "width": 110,
+        "height": 110,
+        "position": "absolute",
+        "overflow": "visible",
+        "z-index": "1"
+      },
+      "widgetSet": "vis-2-widgets-inventwo"
     }
   },
-  "activeWidgets": []
+  "activeWidgets": [],
+  "parentId": "c8c1f400-8420-4c73-b8af-3f31dff66853"
 }

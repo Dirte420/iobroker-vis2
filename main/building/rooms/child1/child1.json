@@ -1,11 +1,10 @@
 {
   "name": "child1",
-  "parentId": "ca9e475d-1fb3-4918-b851-0671e135aeb8",
   "settings": {
     "style": {}
   },
   "widgets": {
-    "w000390": {
+    "w004658": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -182,7 +181,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000391": {
+    "w004659": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -221,7 +220,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000392": {
+    "w004660": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "alignItems": "space-between",
@@ -398,7 +397,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000393": {
+    "w004661": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -428,7 +427,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000394": {
+    "w004662": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [
@@ -653,7 +652,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000395": {
+    "w004663": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -766,7 +765,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000396": {
+    "w004664": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "alignItems": "space-between",
@@ -946,7 +945,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000397": {
+    "w004665": {
       "tpl": "tplInventwoWidgetSwitch",
       "data": {
         "bindings": [],
@@ -1006,7 +1005,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000398": {
+    "w004666": {
       "tpl": "tplInventwoWidgetSlider",
       "data": {
         "bindings": [],
@@ -1063,7 +1062,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000399": {
+    "w004667": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -1113,7 +1112,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000400": {
+    "w004668": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -1144,7 +1143,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000401": {
+    "w004669": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -1217,7 +1216,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000402": {
+    "w004670": {
       "tpl": "tplValueFloatBar",
       "data": {
         "bindings": [
@@ -1265,7 +1264,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000403": {
+    "w004671": {
       "tpl": "tplValueFloatBar",
       "data": {
         "bindings": [
@@ -1313,7 +1312,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000404": {
+    "w004672": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -1358,7 +1357,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000405": {
+    "w004673": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -1404,7 +1403,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000406": {
+    "w004674": {
       "tpl": "tplValueString",
       "data": {
         "bindings": [],
@@ -1438,7 +1437,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000407": {
+    "w004675": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -1561,7 +1560,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000408": {
+    "w004676": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -1709,7 +1708,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000409": {
+    "w004677": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -1856,7 +1855,156 @@
         "overflow": "visible"
       },
       "widgetSet": "vis-2-widgets-inventwo"
+    },
+    "w004901": {
+      "tpl": "tplInventwoWidgetUniversal",
+      "data": {
+        "bindings": [],
+        "type": "viewInDialog",
+        "g_common": true,
+        "mode": "singleButton",
+        "direction": "row",
+        "oid": "",
+        "httpType": "send",
+        "buttonSize": 110,
+        "btnSpacing": 10,
+        "countStates": 2,
+        "dialogWidth": 625,
+        "g_attr_group_type_view_in_dialog": true,
+        "dialogHeight": 405,
+        "dialogPadding": 10,
+        "dialogBackground": "rgb(18, 18, 18)",
+        "dialogTitleColor": "rgb(255,255,255)",
+        "dialogTitleSize": 20,
+        "dialogCloseButtonBackground": "rgba(255,255,255,0)",
+        "dialogCloseButtonColor": "rgba(255,255,255,1)",
+        "dialogCloseButtonSize": 14,
+        "dialogBorderRadiusTopLeft": 12,
+        "dialogBorderRadiusTopRight": 0,
+        "dialogBorderRadiusBottomRight": 12,
+        "dialogBorderRadiusBottomLeft": 0,
+        "feedbackDuration": 0,
+        "g_attr_group_click_feedback": true,
+        "backgroundFeedback": "rgba(69, 86, 24, 1)",
+        "outerShadowColorFeedback": "rgba(0, 0, 0, 1)",
+        "colorPickerColorModel": "hex",
+        "g_attr_content_color_picker": true,
+        "colorPickerWidth": 200,
+        "colorPickerHandleSize": 8,
+        "colorPickerHandleMargin": 6,
+        "colorPickerComponentsSpace": 12,
+        "colorPickerDirection": "vertical",
+        "colorPickerBorderWidth": 0,
+        "colorPickerShowWheel": true,
+        "colorPickerShowSaturation": true,
+        "colorPickerShowValue": true,
+        "backgroundOpacity": 0,
+        "g_attr_group_css_transparency": true,
+        "contentOpacity": 0,
+        "borderRadiusTopLeft": 12,
+        "g_attr_group_css_border_radius": true,
+        "borderRadiusTopRight": 0,
+        "borderRadiusBottomRight": 12,
+        "borderRadiusBottomLeft": 0,
+        "name": "w_navbutton_inv_temp",
+        "comment": null,
+        "class": "c_navbutton_inv",
+        "filterkey": null,
+        "multi-views": null,
+        "locked": null,
+        "g_fixed": true,
+        "view": "temp-child1",
+        "valueFalse": "false",
+        "valueTrue": "true",
+        "dialogCloseOnClickOutside": true
+      },
+      "style": {
+        "bindings": [],
+        "left": "0",
+        "top": "0",
+        "width": 110,
+        "height": 110,
+        "position": "absolute",
+        "overflow": "visible",
+        "z-index": "1"
+      },
+      "widgetSet": "vis-2-widgets-inventwo"
+    },
+    "w004902": {
+      "tpl": "tplInventwoWidgetUniversal",
+      "data": {
+        "bindings": [],
+        "type": "viewInDialog",
+        "g_common": true,
+        "mode": "singleButton",
+        "direction": "row",
+        "oid": "",
+        "httpType": "send",
+        "buttonSize": 110,
+        "btnSpacing": 10,
+        "countStates": 2,
+        "dialogWidth": 625,
+        "g_attr_group_type_view_in_dialog": true,
+        "dialogHeight": 405,
+        "dialogPadding": 10,
+        "dialogBackground": "rgb(18, 18, 18)",
+        "dialogTitleColor": "rgb(255,255,255)",
+        "dialogTitleSize": 20,
+        "dialogCloseButtonBackground": "rgba(255,255,255,0)",
+        "dialogCloseButtonColor": "rgba(255,255,255,1)",
+        "dialogCloseButtonSize": 14,
+        "dialogBorderRadiusTopLeft": 12,
+        "dialogBorderRadiusTopRight": 0,
+        "dialogBorderRadiusBottomRight": 12,
+        "dialogBorderRadiusBottomLeft": 0,
+        "feedbackDuration": 0,
+        "g_attr_group_click_feedback": true,
+        "backgroundFeedback": "rgba(69, 86, 24, 1)",
+        "outerShadowColorFeedback": "rgba(0, 0, 0, 1)",
+        "colorPickerColorModel": "hex",
+        "g_attr_content_color_picker": true,
+        "colorPickerWidth": 200,
+        "colorPickerHandleSize": 8,
+        "colorPickerHandleMargin": 6,
+        "colorPickerComponentsSpace": 12,
+        "colorPickerDirection": "vertical",
+        "colorPickerBorderWidth": 0,
+        "colorPickerShowWheel": true,
+        "colorPickerShowSaturation": true,
+        "colorPickerShowValue": true,
+        "backgroundOpacity": 0,
+        "g_attr_group_css_transparency": true,
+        "contentOpacity": 0,
+        "borderRadiusTopLeft": 12,
+        "g_attr_group_css_border_radius": true,
+        "borderRadiusTopRight": 0,
+        "borderRadiusBottomRight": 12,
+        "borderRadiusBottomLeft": 0,
+        "name": "w_navbutton_inv_humidity",
+        "comment": null,
+        "class": "c_navbutton_inv",
+        "filterkey": null,
+        "multi-views": null,
+        "locked": null,
+        "g_fixed": true,
+        "view": "humidity-child1",
+        "valueFalse": "false",
+        "valueTrue": "true",
+        "dialogCloseOnClickOutside": true
+      },
+      "style": {
+        "bindings": [],
+        "left": "0",
+        "top": "120",
+        "width": 110,
+        "height": 110,
+        "position": "absolute",
+        "overflow": "visible",
+        "z-index": "1"
+      },
+      "widgetSet": "vis-2-widgets-inventwo"
     }
   },
-  "activeWidgets": []
+  "activeWidgets": [],
+  "parentId": "cb63dd19-75f6-4892-a4ab-5572af65ad3c"
 }

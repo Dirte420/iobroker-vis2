@@ -1,0 +1,29 @@
+{
+    "name": "temp-office1",
+    "parentId": "7b3d0b5a-3270-42ab-93df-a2ee68bf776a",
+    "settings": {
+        "style": {}
+    },
+    "widgets": {
+        "w004928": {
+            "tpl": "tplIFrame",
+            "data": {
+                "bindings": [],
+                "refreshInterval": 0,
+                "g_common": true,
+                "seamless": true,
+                "src": "http://192.168.1.125:3000/d-solo/s1xpXiggz/buero?orgId=1&panelId=2&from=now-24h&to=now&theme=dark",
+                "refreshOnWakeUp": false
+            },
+            "style": {
+                "bindings": [],
+                "left": "0",
+                "top": "0",
+                "width": 600,
+                "height": 320
+            },
+            "widgetSet": "basic"
+        }
+    },
+    "activeWidgets": []
+}
