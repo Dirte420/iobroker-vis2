@@ -2785,7 +2785,7 @@
         "multi-views": null,
         "locked": null,
         "g_fixed": true,
-        "view": "temp-tech1",
+        "view": "dlg-tech-temp1",
         "valueFalse": "false",
         "valueTrue": "true",
         "dialogCloseOnClickOutside": true
@@ -2859,7 +2859,7 @@
         "multi-views": null,
         "locked": null,
         "g_fixed": true,
-        "view": "humidity-tech1",
+        "view": "dlg-tech-humidity1",
         "valueFalse": "false",
         "valueTrue": "true",
         "dialogCloseOnClickOutside": true

@@ -1210,7 +1210,7 @@
         "multi-views": null,
         "locked": null,
         "g_fixed": true,
-        "view": "humidity-warehouse1",
+        "view": "dlg-warehouse-humidity1",
         "valueFalse": "false",
         "valueTrue": "true",
         "dialogCloseOnClickOutside": true
@@ -1284,7 +1284,7 @@
         "multi-views": null,
         "locked": null,
         "g_fixed": true,
-        "view": "temp-warehouse1",
+        "view": "dlg-warehouse-temp1",
         "valueFalse": "false",
         "valueTrue": "true",
         "dialogCloseOnClickOutside": true

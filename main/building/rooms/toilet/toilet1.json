@@ -1210,7 +1210,7 @@
         "multi-views": null,
         "locked": null,
         "g_fixed": true,
-        "view": "humidity-toilet1",
+        "view": "dlg-toilet-humidity1",
         "valueFalse": "false",
         "valueTrue": "true",
         "dialogCloseOnClickOutside": true
@@ -1284,7 +1284,7 @@
         "multi-views": null,
         "locked": null,
         "g_fixed": true,
-        "view": "temp-toilet1",
+        "view": "dlg-toilet-temp1",
         "valueFalse": "false",
         "valueTrue": "true",
         "dialogCloseOnClickOutside": true

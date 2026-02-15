@@ -2737,7 +2737,7 @@
         "multi-views": null,
         "locked": null,
         "g_fixed": true,
-        "view": "viewid",
+        "view": "dlg-viewid",
         "valueFalse": "false",
         "valueTrue": "",
         "dialogCloseOnClickOutside": true

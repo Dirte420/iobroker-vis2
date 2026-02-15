@@ -1318,7 +1318,7 @@
         "multi-views": null,
         "locked": null,
         "g_fixed": true,
-        "view": "downspeed-internet1",
+        "view": "dlg-internet-downspeed1",
         "valueFalse": "false",
         "valueTrue": "true",
         "dialogCloseOnClickOutside": true
@@ -1392,7 +1392,7 @@
         "multi-views": null,
         "locked": null,
         "g_fixed": true,
-        "view": "upspeed-internet1",
+        "view": "dlg-internet-upspeed1",
         "valueFalse": "false",
         "valueTrue": "true",
         "dialogCloseOnClickOutside": true
@@ -1466,7 +1466,7 @@
         "multi-views": null,
         "locked": null,
         "g_fixed": true,
-        "view": "ping-internet1",
+        "view": "dlg-internet-ping1",
         "valueFalse": "false",
         "valueTrue": "true",
         "dialogCloseOnClickOutside": true

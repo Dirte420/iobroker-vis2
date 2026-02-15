@@ -1570,7 +1570,7 @@
         "multi-views": null,
         "locked": null,
         "g_fixed": true,
-        "view": "temp-entrance1",
+        "view": "dlg-entrance-temp1",
         "valueFalse": "false",
         "valueTrue": "true",
         "dialogCloseOnClickOutside": true
@@ -1644,7 +1644,7 @@
         "multi-views": null,
         "locked": null,
         "g_fixed": true,
-        "view": "humidity-entrance1",
+        "view": "dlg-entrance-humidity1",
         "valueFalse": "false",
         "valueTrue": "true",
         "dialogCloseOnClickOutside": true

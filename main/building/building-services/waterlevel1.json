@@ -556,7 +556,7 @@
         "multi-views": null,
         "locked": null,
         "g_fixed": true,
-        "view": "waterlevel-gusen1",
+        "view": "dlg-waterlevel-gusen1",
         "valueFalse": "false",
         "valueTrue": "true",
         "dialogCloseOnClickOutside": true

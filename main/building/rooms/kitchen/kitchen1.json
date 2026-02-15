@@ -3421,7 +3421,7 @@
         "multi-views": null,
         "locked": null,
         "g_fixed": true,
-        "view": "temp-kitchen1",
+        "view": "dlg-kitchen-temp1",
         "valueFalse": "false",
         "valueTrue": "true",
         "dialogCloseOnClickOutside": true
@@ -3495,7 +3495,7 @@
         "multi-views": null,
         "locked": null,
         "g_fixed": true,
-        "view": "humidity-kitchen1",
+        "view": "dlg-kitchen-humidity1",
         "valueFalse": "false",
         "valueTrue": "true",
         "dialogCloseOnClickOutside": true

@@ -2467,7 +2467,7 @@
         "multi-views": null,
         "locked": null,
         "g_fixed": true,
-        "view": "temp-office1",
+        "view": "dlg-office-temp1",
         "valueFalse": "false",
         "valueTrue": "true",
         "dialogCloseOnClickOutside": true
@@ -2541,7 +2541,7 @@
         "multi-views": null,
         "locked": null,
         "g_fixed": true,
-        "view": "humidity-office1",
+        "view": "dlg-office-humidity1",
         "valueFalse": "false",
         "valueTrue": "true",
         "dialogCloseOnClickOutside": true

@@ -1282,7 +1282,7 @@
         "multi-views": null,
         "locked": null,
         "g_fixed": true,
-        "view": "temp-weatherstation1",
+        "view": "dlg-weatherstation-temp1",
         "valueFalse": "false",
         "valueTrue": "true",
         "dialogCloseOnClickOutside": true
@@ -1356,7 +1356,7 @@
         "multi-views": null,
         "locked": null,
         "g_fixed": true,
-        "view": "humidity-weatherstation1",
+        "view": "dlg-weatherstation-humidity1",
         "valueFalse": "false",
         "valueTrue": "true",
         "dialogCloseOnClickOutside": true

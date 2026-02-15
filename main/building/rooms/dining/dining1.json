@@ -2140,7 +2140,7 @@
         "multi-views": null,
         "locked": null,
         "g_fixed": true,
-        "view": "temp-dining1",
+        "view": "dlg-dining-temp1",
         "valueFalse": "false",
         "valueTrue": "true",
         "dialogCloseOnClickOutside": true
@@ -2214,7 +2214,7 @@
         "multi-views": null,
         "locked": null,
         "g_fixed": true,
-        "view": "humidity-dining1",
+        "view": "dlg-dining-humidity1",
         "valueFalse": "false",
         "valueTrue": "true",
         "dialogCloseOnClickOutside": true
