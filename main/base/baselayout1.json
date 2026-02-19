@@ -7,7 +7,7 @@
     "resolution": "user"
   },
   "widgets": {
-    "w004250": {
+    "w004947": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -170,7 +170,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004251": {
+    "w004948": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -316,7 +316,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004252": {
+    "w004949": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -462,7 +462,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004253": {
+    "w004950": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -572,7 +572,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004254": {
+    "w004951": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -718,7 +718,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004255": {
+    "w004952": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -864,7 +864,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004256": {
+    "w004953": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -1029,7 +1029,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004257": {
+    "w004954": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -1194,7 +1194,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004258": {
+    "w004955": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -1328,7 +1328,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004259": {
+    "w004956": {
       "tpl": "tplMaterial2Clock",
       "data": {
         "bindings": [],
@@ -1370,7 +1370,7 @@
       },
       "widgetSet": "vis-2-widgets-material"
     },
-    "w004260": {
+    "w004957": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -1413,7 +1413,7 @@
       },
       "widgetSet": "basic"
     },
-    "w004261": {
+    "w004958": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "alignItems": "space-between",
@@ -1609,7 +1609,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004262": {
+    "w004959": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [
@@ -1715,7 +1715,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004263": {
+    "w004960": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -1854,7 +1854,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004264": {
+    "w004961": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -1987,7 +1987,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004265": {
+    "w004962": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -2120,7 +2120,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004266": {
+    "w004963": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -2253,7 +2253,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004267": {
+    "w004964": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -2326,7 +2326,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004268": {
+    "w004965": {
       "tpl": "tplStatefulContainerView8",
       "data": {
         "bindings": [],
@@ -2503,7 +2503,7 @@
       },
       "widgetSet": "basic"
     },
-    "w004881": {
+    "w004966": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -2547,7 +2547,7 @@
       },
       "widgetSet": "basic"
     },
-    "w004882": {
+    "w004967": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -2680,7 +2680,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004883": {
+    "w004968": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -2755,41 +2755,6 @@
         "z-index": "1"
       },
       "widgetSet": "vis-2-widgets-inventwo"
-    },
-    "w004888": {
-      "tpl": "tplValueString",
-      "data": {
-        "bindings": [],
-        "oid": "0_userdata.0.VIS.viewName",
-        "name": "w_label_viewid",
-        "comment": null,
-        "class": null,
-        "filterkey": null,
-        "multi-views": null,
-        "locked": null,
-        "g_fixed": true,
-        "html_prepend": "",
-        "g_css_font_text": true
-      },
-      "style": {
-        "bindings": [],
-        "left": "470",
-        "top": "19",
-        "width": "200",
-        "height": 30,
-        "color": null,
-        "text-align": "",
-        "text-shadow": null,
-        "font-family": "Verdana, Geneva, sans-serif",
-        "font-style": null,
-        "font-variant": null,
-        "font-weight": null,
-        "font-size": "large",
-        "line-height": null,
-        "letter-spacing": null,
-        "word-spacing": null
-      },
-      "widgetSet": "basic"
     }
   },
   "activeWidgets": [],
