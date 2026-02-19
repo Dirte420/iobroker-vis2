@@ -1213,7 +1213,8 @@
         "view": "dlg-toilet-humidity1",
         "valueFalse": "false",
         "valueTrue": "true",
-        "dialogCloseOnClickOutside": true
+        "dialogCloseOnClickOutside": true,
+        "dialogTitleHide": true
       },
       "style": {
         "bindings": [],
@@ -1287,7 +1288,8 @@
         "view": "dlg-toilet-temp1",
         "valueFalse": "false",
         "valueTrue": "true",
-        "dialogCloseOnClickOutside": true
+        "dialogCloseOnClickOutside": true,
+        "dialogTitleHide": true
       },
       "style": {
         "bindings": [],

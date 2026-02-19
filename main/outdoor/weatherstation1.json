@@ -4,7 +4,7 @@
     "style": {}
   },
   "widgets": {
-    "w004536": {
+    "w005192": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -44,7 +44,7 @@
       },
       "widgetSet": "basic"
     },
-    "w004537": {
+    "w005193": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -74,7 +74,7 @@
       },
       "widgetSet": "basic"
     },
-    "w004538": {
+    "w005194": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "alignItems": "space-between",
@@ -251,7 +251,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004539": {
+    "w005195": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -428,7 +428,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004540": {
+    "w005196": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -542,7 +542,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004541": {
+    "w005197": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -656,7 +656,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004542": {
+    "w005198": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -770,7 +770,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004543": {
+    "w005199": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -884,7 +884,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004544": {
+    "w005200": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -998,7 +998,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004545": {
+    "w005201": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [
@@ -1117,7 +1117,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004546": {
+    "w005202": {
       "tpl": "tplValueString",
       "data": {
         "bindings": [],
@@ -1152,7 +1152,7 @@
       },
       "widgetSet": "basic"
     },
-    "w004547": {
+    "w005203": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -1225,7 +1225,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004887": {
+    "w005204": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -1285,7 +1285,8 @@
         "view": "dlg-weatherstation-temp1",
         "valueFalse": "false",
         "valueTrue": "true",
-        "dialogCloseOnClickOutside": true
+        "dialogCloseOnClickOutside": true,
+        "dialogTitleHide": true
       },
       "style": {
         "bindings": [],
@@ -1299,7 +1300,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004890": {
+    "w005205": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -1359,7 +1360,8 @@
         "view": "dlg-weatherstation-humidity1",
         "valueFalse": "false",
         "valueTrue": "true",
-        "dialogCloseOnClickOutside": true
+        "dialogCloseOnClickOutside": true,
+        "dialogTitleHide": true
       },
       "style": {
         "bindings": [],

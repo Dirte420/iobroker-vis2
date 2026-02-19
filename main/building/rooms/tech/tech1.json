@@ -2788,7 +2788,8 @@
         "view": "dlg-tech-temp1",
         "valueFalse": "false",
         "valueTrue": "true",
-        "dialogCloseOnClickOutside": true
+        "dialogCloseOnClickOutside": true,
+        "dialogTitleHide": true
       },
       "style": {
         "bindings": [],
@@ -2862,7 +2863,8 @@
         "view": "dlg-tech-humidity1",
         "valueFalse": "false",
         "valueTrue": "true",
-        "dialogCloseOnClickOutside": true
+        "dialogCloseOnClickOutside": true,
+        "dialogTitleHide": true
       },
       "style": {
         "bindings": [],

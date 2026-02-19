@@ -2776,7 +2776,8 @@
         "view": "dlg-bedroom-temp1",
         "valueFalse": "false",
         "valueTrue": "true",
-        "dialogCloseOnClickOutside": true
+        "dialogCloseOnClickOutside": true,
+        "dialogTitleHide": true
       },
       "style": {
         "bindings": [],
@@ -2850,7 +2851,8 @@
         "view": "dlg-bedroom-humidity1",
         "valueFalse": "false",
         "valueTrue": "true",
-        "dialogCloseOnClickOutside": true
+        "dialogCloseOnClickOutside": true,
+        "dialogTitleHide": true
       },
       "style": {
         "bindings": [],

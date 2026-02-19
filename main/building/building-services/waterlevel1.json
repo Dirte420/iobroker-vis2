@@ -512,9 +512,9 @@
         "buttonSize": 110,
         "btnSpacing": 10,
         "countStates": 2,
-        "dialogWidth": 625,
+        "dialogWidth": 620,
         "g_attr_group_type_view_in_dialog": true,
-        "dialogHeight": 405,
+        "dialogHeight": 340,
         "dialogPadding": 10,
         "dialogBackground": "rgb(18, 18, 18)",
         "dialogTitleColor": "rgb(255,255,255)",
@@ -559,7 +559,8 @@
         "view": "dlg-waterlevel-gusen1",
         "valueFalse": "false",
         "valueTrue": "true",
-        "dialogCloseOnClickOutside": true
+        "dialogCloseOnClickOutside": true,
+        "dialogTitleHide": true
       },
       "style": {
         "bindings": [],
