@@ -1,0 +1,89 @@
+{
+    "name": "dlg-tech-onoff-tumbledryer1",
+    "settings": {
+        "style": {},
+        "sizex": "220",
+        "sizey": "120",
+        "resolution": "user"
+    },
+    "widgets": {
+        "w005230": {
+            "tpl": "tplValueString",
+            "data": {
+                "bindings": [],
+                "oid": "alias.0.building.rooms.tech.tumble-dryer1.NAME",
+                "html_prepend": "",
+                "html_append": ""
+            },
+            "style": {
+                "bindings": [],
+                "left": "25",
+                "top": 60,
+                "width": 100,
+                "height": 30
+            },
+            "widgetSet": "basic"
+        },
+        "w005231": {
+            "tpl": "tplInventwoWidgetSwitch",
+            "data": {
+                "bindings": [],
+                "oid": "alias.0.building.rooms.tech.tumble-dryer1.SET",
+                "textPosition": "end",
+                "g_common": true,
+                "trackColorTrue": "rgba(255,152,0,0.44)",
+                "g_attr_group_css_track": true,
+                "trackSize": 12,
+                "trackBorderRadius": 100,
+                "trackShadowX": 2,
+                "trackShadowY": 2,
+                "trackShadowBlur": 2,
+                "trackShadowSize": 1,
+                "trackShadowColor": "rgba(0, 0, 0, 1)",
+                "trackShadowColorTrue": "rgba(0, 0, 0, 1)",
+                "thumbColorTrue": "rgba(255,152,0,1)",
+                "g_attr_group_css_thumb": true,
+                "thumbSize": 16,
+                "thumbBorderRadius": 100,
+                "thumbShadowX": 2,
+                "thumbShadowY": 2,
+                "thumbShadowBlur": 2,
+                "thumbShadowSize": 1,
+                "thumbShadowColor": "rgba(0, 0, 0, 0.5)",
+                "thumbShadowColorTrue": "rgba(0, 0, 0, 0.5)",
+                "textFalse": "aus",
+                "textTrue": "ein",
+                "valueFalse": "false",
+                "valueTrue": "true"
+            },
+            "style": {
+                "bindings": [],
+                "left": 109,
+                "top": 54,
+                "overflow-x": "visible",
+                "overflow-y": "visible",
+                "width": 70,
+                "height": 40
+            },
+            "widgetSet": "vis-2-widgets-inventwo"
+        },
+        "w005232": {
+            "tpl": "tplValueString",
+            "data": {
+                "bindings": [],
+                "oid": "nothing_selected",
+                "html_prepend": "Gerät ein-ausschalten"
+            },
+            "style": {
+                "bindings": [],
+                "left": "25",
+                "top": "20",
+                "width": "200",
+                "height": "30px"
+            },
+            "widgetSet": "basic"
+        }
+    },
+    "activeWidgets": [],
+    "parentId": "e8c9a3b6-6c20-45e6-8834-452ba92ec0c7"
+}

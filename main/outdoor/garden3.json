@@ -1,11 +1,10 @@
 {
   "name": "garden3",
-  "parentId": "519e6293-7442-4ddc-8d34-8b0667087a7b",
   "settings": {
     "style": {}
   },
   "widgets": {
-    "w000064": {
+    "w004472": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [
@@ -230,7 +229,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000065": {
+    "w004473": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -343,7 +342,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000066": {
+    "w004474": {
       "tpl": "tplInventwoWidgetSwitch",
       "data": {
         "bindings": [],
@@ -403,7 +402,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000067": {
+    "w004475": {
       "tpl": "tplInventwoWidgetSlider",
       "data": {
         "bindings": [],
@@ -460,7 +459,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000068": {
+    "w004476": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -510,7 +509,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000069": {
+    "w004477": {
       "tpl": "tplValueFloatBar",
       "data": {
         "bindings": [
@@ -558,7 +557,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000070": {
+    "w004478": {
       "tpl": "tplValueFloatBar",
       "data": {
         "bindings": [
@@ -606,7 +605,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000071": {
+    "w004479": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -651,7 +650,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000072": {
+    "w004480": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -697,7 +696,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000073": {
+    "w004481": {
       "tpl": "tplValueString",
       "data": {
         "bindings": [],
@@ -731,7 +730,7 @@
       },
       "widgetSet": "basic"
     },
-    "w000074": {
+    "w004482": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "alignItems": "space-between",
@@ -911,22 +910,22 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w000075": {
+    "w004483": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
-        "type": "switch",
+        "type": "viewInDialog",
         "g_common": true,
         "mode": "singleButton",
         "direction": "row",
-        "oid": "alias.0.outdoor.garden.switch-motionsensor1.SET",
+        "oid": "",
         "httpType": "send",
         "buttonSize": 110,
         "btnSpacing": 10,
         "countStates": 2,
-        "dialogWidth": 500,
+        "dialogWidth": 245,
         "g_attr_group_type_view_in_dialog": true,
-        "dialogHeight": 300,
+        "dialogHeight": 120,
         "dialogPadding": 10,
         "dialogBackground": "rgb(18, 18, 18)",
         "dialogTitleColor": "rgb(255,255,255)",
@@ -968,9 +967,11 @@
         "multi-views": null,
         "locked": null,
         "g_fixed": true,
-        "view": "",
+        "view": "dlg-garden3-onoff-motionsensor1",
         "valueFalse": "false",
-        "valueTrue": "true"
+        "valueTrue": "",
+        "dialogCloseOnClickOutside": true,
+        "dialogTitleHide": true
       },
       "style": {
         "bindings": [],
@@ -985,5 +986,6 @@
       "widgetSet": "vis-2-widgets-inventwo"
     }
   },
-  "activeWidgets": []
+  "activeWidgets": [],
+  "parentId": "40eacda2-abde-464f-a6de-e74f3275809a"
 }
