@@ -36,7 +36,7 @@
       "tpl": "tplValueInput",
       "data": {
         "bindings": [],
-        "oid": "0_userdata.0.VIS.viewId",
+        "oid": "local_viewId",
         "autoSetDelay": "2000",
         "g_common": true,
         "variant": "standard",

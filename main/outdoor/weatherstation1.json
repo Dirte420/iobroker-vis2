@@ -1160,7 +1160,7 @@
         "g_common": true,
         "mode": "singleButton",
         "direction": "row",
-        "oid": "0_userdata.0.VIS.viewId",
+        "oid": "local_viewId",
         "httpType": "send",
         "buttonSize": 110,
         "btnSpacing": 10,
