@@ -2496,8 +2496,8 @@
       },
       "style": {
         "bindings": [],
-        "left": "130px",
-        "top": "59px",
+        "left": 130,
+        "top": 58,
         "width": "1193px",
         "height": "541px"
       },
@@ -2693,9 +2693,9 @@
         "buttonSize": 110,
         "btnSpacing": 10,
         "countStates": 2,
-        "dialogWidth": 500,
+        "dialogWidth": 250,
         "g_attr_group_type_view_in_dialog": true,
-        "dialogHeight": 300,
+        "dialogHeight": 80,
         "dialogPadding": 10,
         "dialogBackground": "rgb(18, 18, 18)",
         "dialogTitleColor": "rgb(255,255,255)",
@@ -2740,7 +2740,9 @@
         "view": "dlg-viewid",
         "valueFalse": "false",
         "valueTrue": "",
-        "dialogCloseOnClickOutside": true
+        "dialogCloseOnClickOutside": true,
+        "dialogTitleHide": true,
+        "dialogCloseTimeoutSeconds": 10
       },
       "style": {
         "bindings": [],

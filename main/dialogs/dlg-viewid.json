@@ -2,7 +2,16 @@
   "name": "viewid",
   "parentId": "0dde83a2-4b04-4060-b727-45b09e567165",
   "settings": {
-    "style": {}
+    "style": {
+      "display": "flex"
+    },
+    "theme": "",
+    "sizex": "250",
+    "sizey": "80",
+    "resolution": "user",
+    "limitScreen": false,
+    "limitScreenBorderWidth": 0,
+    "navigation": false
   },
   "widgets": {
     "w004884": {
