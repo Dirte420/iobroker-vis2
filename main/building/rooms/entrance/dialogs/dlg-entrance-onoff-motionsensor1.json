@@ -7,7 +7,7 @@
         "resolution": "user"
     },
     "widgets": {
-        "w005218": {
+        "w005251": {
             "tpl": "tplValueString",
             "data": {
                 "bindings": [],
@@ -24,11 +24,11 @@
             },
             "widgetSet": "basic"
         },
-        "w005219": {
+        "w005252": {
             "tpl": "tplInventwoWidgetSwitch",
             "data": {
                 "bindings": [],
-                "oid": "alias.0.building.rooms.entrance.switch-motionsensor1.SET",
+                "oid": "0_userdata.0.CONTROL.entrance.light1.force",
                 "textPosition": "end",
                 "g_common": true,
                 "trackColorTrue": "rgba(255,152,0,0.44)",
@@ -67,7 +67,7 @@
             },
             "widgetSet": "vis-2-widgets-inventwo"
         },
-        "w005220": {
+        "w005253": {
             "tpl": "tplValueString",
             "data": {
                 "bindings": [],
