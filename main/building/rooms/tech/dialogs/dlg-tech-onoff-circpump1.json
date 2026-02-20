@@ -7,7 +7,7 @@
         "resolution": "user"
     },
     "widgets": {
-        "w005227": {
+        "w005269": {
             "tpl": "tplValueString",
             "data": {
                 "bindings": [],
@@ -24,11 +24,11 @@
             },
             "widgetSet": "basic"
         },
-        "w005228": {
+        "w005270": {
             "tpl": "tplInventwoWidgetSwitch",
             "data": {
                 "bindings": [],
-                "oid": "0_userdata.0.CONTROL.tech.circpump1.force",
+                "oid": "alias.0.building.rooms.tech.circ-pump1.FORCE",
                 "textPosition": "end",
                 "g_common": true,
                 "trackColorTrue": "rgba(255,152,0,0.44)",
@@ -67,7 +67,7 @@
             },
             "widgetSet": "vis-2-widgets-inventwo"
         },
-        "w005229": {
+        "w005271": {
             "tpl": "tplValueString",
             "data": {
                 "bindings": [],

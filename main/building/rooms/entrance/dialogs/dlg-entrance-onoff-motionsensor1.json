@@ -28,7 +28,7 @@
             "tpl": "tplInventwoWidgetSwitch",
             "data": {
                 "bindings": [],
-                "oid": "0_userdata.0.CONTROL.entrance.light1.force",
+                "oid": "alias.0.building.rooms.entrance.switch-motionsensor1.FORCE",
                 "textPosition": "end",
                 "g_common": true,
                 "trackColorTrue": "rgba(255,152,0,0.44)",
