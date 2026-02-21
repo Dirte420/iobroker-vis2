@@ -1770,7 +1770,7 @@
         "multi-views": null,
         "name": "w_displayroom_tech_freezer",
         "oid": "alias.0.building.rooms.tech.freezer1.SET",
-        "oid1": "0_userdata.0.SUPERVISION.tech.freezer1.alarm-freezer1",
+        "oid1": "alias.0.building.rooms.tech.freezer1.ALARM",
         "oid2": "alias.0.building.rooms.tech.freezer1.SET",
         "oid3": "alias.0.building.rooms.tech.freezer1.SET",
         "outerShadowBlur": 2,
