@@ -234,7 +234,7 @@
     "tpl": "tplInventwoWidgetSlider",
     "data": {
       "bindings": [],
-      "oid": "0_userdata.0.CONTROL.ROOMNAME.light1.brightness",
+      "oid": "alias.0.building.rooms.ROOMNAME.light1.brightness",
       "minValue": 0,
       "g_common": true,
       "maxValue": 100,
@@ -289,7 +289,7 @@
     "tpl": "tplValueString",
     "data": {
       "bindings": [],
-      "oid": "0_userdata.0.CONTROL.ROOMNAME.light1.brightness",
+      "oid": "alias.0.building.rooms.ROOMNAME.light1.brightness",
       "g_css_font_text": true,
       "html_append": " %",
       "name": "w_label_act_lightcontrol_ROOMNAME",
