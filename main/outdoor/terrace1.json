@@ -3305,7 +3305,7 @@
       "tpl": "tplInventwoWidgetSlider",
       "data": {
         "bindings": [],
-        "oid": "0_userdata.0.CONTROL.terrace.light1.brightness",
+        "oid": "alias.0.outdoor.terrace.terracelamp1.SET-BRIGHTNESS",
         "minValue": 0,
         "g_common": true,
         "maxValue": 100,
@@ -3359,7 +3359,7 @@
       "tpl": "tplValueString",
       "data": {
         "bindings": [],
-        "oid": "0_userdata.0.CONTROL.terrace.light1.brightness",
+        "oid": "alias.0.outdoor.terrace.terracelamp1.SET-BRIGHTNESS",
         "g_css_font_text": true,
         "html_append": " %",
         "name": "w_label_act_lightcontrol_terrace",
