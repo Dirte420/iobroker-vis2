@@ -1224,7 +1224,7 @@
         "multi-views": null,
         "name": "w_buttonroom_entrance_motionsens",
         "oid": "",
-        "oid1": "0_userdata.0.CONTROL.entrance.light1.force",
+        "oid1": "alias.0.building.rooms.entrance.switch-motionsensor1.FORCE",
         "oid2": "alias.0.building.rooms.entrance.switch-motionsensor1.SET",
         "oid3": "alias.0.building.rooms.entrance.switch-motionsensor1.SET",
         "outerShadowBlur": 2,
