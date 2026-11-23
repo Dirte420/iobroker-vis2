@@ -7,7 +7,7 @@
     "resolution": "user"
   },
   "widgets": {
-    "w004947": {
+    "w005283": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -170,7 +170,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004948": {
+    "w005284": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -316,7 +316,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004949": {
+    "w005285": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -462,7 +462,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004950": {
+    "w005286": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -572,7 +572,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004951": {
+    "w005287": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -718,7 +718,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004952": {
+    "w005288": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -864,7 +864,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004953": {
+    "w005289": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -1029,7 +1029,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004954": {
+    "w005290": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -1194,7 +1194,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004955": {
+    "w005291": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -1328,7 +1328,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004956": {
+    "w005292": {
       "tpl": "tplMaterial2Clock",
       "data": {
         "bindings": [],
@@ -1341,17 +1341,18 @@
         "noCard": true,
         "name": "w_clock",
         "comment": null,
-        "class": null,
+        "class": "c_clock",
         "filterkey": null,
         "multi-views": null,
         "locked": null,
         "g_fixed": true,
-        "g_css_font_text": true
+        "g_css_font_text": true,
+        "g_css_shadow_padding": true
       },
       "style": {
         "bindings": [],
         "left": "1220",
-        "top": "21px",
+        "top": "18px",
         "width": "100",
         "height": "30",
         "position": "",
@@ -1363,14 +1364,26 @@
         "font-style": "",
         "font-variant": null,
         "font-weight": null,
-        "font-size": null,
+        "font-size": "medium",
         "line-height": null,
         "letter-spacing": null,
-        "word-spacing": null
+        "word-spacing": null,
+        "overflow-x": "",
+        "padding": "",
+        "padding-left": "",
+        "padding-top": "",
+        "padding-right": "",
+        "padding-bottom": "",
+        "box-shadow": null,
+        "margin-left": "",
+        "margin-top": null,
+        "margin-right": null,
+        "margin-bottom": null,
+        "overflow-y": ""
       },
       "widgetSet": "vis-2-widgets-material"
     },
-    "w004957": {
+    "w005293": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -1413,7 +1426,7 @@
       },
       "widgetSet": "basic"
     },
-    "w004958": {
+    "w005294": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "alignItems": "space-between",
@@ -1609,7 +1622,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004959": {
+    "w005295": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [
@@ -1715,7 +1728,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004960": {
+    "w005296": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -1854,7 +1867,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004961": {
+    "w005297": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -1987,7 +2000,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004962": {
+    "w005298": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -2120,7 +2133,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004963": {
+    "w005299": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -2253,7 +2266,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004964": {
+    "w005300": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -2326,7 +2339,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004965": {
+    "w005301": {
       "tpl": "tplStatefulContainerView8",
       "data": {
         "bindings": [],
@@ -2503,7 +2516,7 @@
       },
       "widgetSet": "basic"
     },
-    "w004966": {
+    "w005302": {
       "tpl": "tplValueFloat",
       "data": {
         "bindings": [],
@@ -2547,7 +2560,7 @@
       },
       "widgetSet": "basic"
     },
-    "w004967": {
+    "w005303": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
@@ -2680,7 +2693,7 @@
       },
       "widgetSet": "vis-2-widgets-inventwo"
     },
-    "w004968": {
+    "w005304": {
       "tpl": "tplInventwoWidgetUniversal",
       "data": {
         "bindings": [],
